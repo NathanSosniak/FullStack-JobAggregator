@@ -1,0 +1,21 @@
+FROM codercom/code-server:latest
+
+USER root
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    python3-venv \
+    gcc \
+    g++ \
+    default-jdk \
+    iptables \
+    && rm -rf /var/lib/apt/lists/*
+
+# on met une restriction reseau pour accepter uniquement pip et nopm
+COPY sandbox-firewall.sh /usr/local/bin/sandbox-firewall.sh
+RUN chmod +x /usr/local/bin/sandbox-firewall.sh
+
+# anti sudo 
+RUN echo "coder ALL=(ALL) NOPASSWD: /usr/local/bin/sandbox-firewall.sh" > /etc/sudoers.d/coder
+
+USER coder

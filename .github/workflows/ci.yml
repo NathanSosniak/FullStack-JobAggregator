@@ -1,0 +1,81 @@
+on:
+  push:
+    branches: ["PROD"]
+  pull_request:
+    branches: ["PROD"]
+
+jobs:
+  ci:
+    runs-on: self-hosted
+
+    steps:
+      # va chercher les fichiers du repo
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # on install Node
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # install dependances du backend
+      - name: Install backend deps
+        run: |
+          cd Backend
+          npm install
+
+      # verifie la qualite du push et le code
+      - name: Lint backend
+        run: |
+          cd Backend
+          npm run lint
+      # lance les test pour les routes du backend
+      - name: Run backend tests
+        run: |
+          cd Backend
+          npm test
+
+      # dependance front
+      - name: Install frontend deps
+        run: |
+          cd Frontend/techyourjob-frontend
+          npm install
+
+      - name: Build frontend
+        run: |
+          cd Frontend/techyourjob-frontend
+          npm run build
+
+      # Install chrome
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget fonts-liberation libasound2t64 libatk-bridge2.0-0 \
+            libatk1.0-0 libatspi2.0-0 libcairo2 libcups2 libgbm1 libgtk-3-0 \
+            libnspr4 libnss3 libpango-1.0-0 libvulkan1 libxcomposite1 \
+            libxdamage1 libxfixes3 libxkbcommon0 libxrandr2 xdg-utils
+          curl -fsSL -o google-chrome-stable.deb https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          sudo apt-get install -y ./google-chrome-stable.deb
+          echo "CHROME_PATH=/usr/bin/google-chrome-stable" >> $GITHUB_ENV
+
+      # ca lance le vfront
+      - name: Start frontend
+        run: |
+          cd Frontend/techyourjob-frontend
+          # Tue tout processus qui utiliserait encore le port 3000
+          sudo fuser -k 3000/tcp || true
+          npm start &
+          # Attente active du port 3000 (plus fiable que sleep)
+          timeout 60s bash -c 'until curl -f http://localhost:3000; do sleep 2; done'
+
+      - name: Lighthouse audit
+        uses: treosh/lighthouse-ci-action@v12
+        with:
+          urls: |
+            http://localhost:3000
+          uploadArtifacts: true
+          temporaryPublicStorage: true
+          configPath: .lighthouserc.json
+
+          chromeFlags: "--headless --no-sandbox --disable-dev-shm-usage --disable-gpu --disable-software-rasterizer"

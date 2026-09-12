@@ -1,0 +1,25 @@
+FROM python:3.11-slim
+
+# empeche Python de mettre les logs en cache (buffering)
+ENV PYTHONUNBUFFERED=1
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y cron && rm -rf /var/lib/apt/lists/*
+
+COPY . /app
+
+# Installation du crontab
+COPY crontab /etc/cron.d/daily-cron
+RUN chmod 0644 /etc/cron.d/daily-cron
+RUN crontab /etc/cron.d/daily-cron
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+
+# creation du fichier log
+RUN touch /var/log/cron.log
+
+
+CMD ["sh", "-c", "printenv > /etc/environment && cron && tail -f /var/log/cron.log"]

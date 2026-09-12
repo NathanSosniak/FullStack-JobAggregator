@@ -1,0 +1,20 @@
+[
+  {
+    "total": 2241
+  },
+  {
+    "label": "fullstack",
+    "value": 61.49,
+    "color": "#47AD95"
+  },
+  {
+    "label": "backend",
+    "value": 18.34,
+    "color": "#8208D4"
+  },
+  {
+    "label": "Autres",
+    "value": 20.17,
+    "color": "#414141"
+  }
+]

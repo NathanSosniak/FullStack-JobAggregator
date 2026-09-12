@@ -1,0 +1,35 @@
+repos:
+  # HOOKS PYTHON (RUFF)
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.3.0 #last version
+    hooks:
+      - id: ruff
+        args: [--fix] # ca va reparer automatique les erreurs de ,int
+      - id: ruff-format # Formate le code avec Black
+
+  # HOOKS FRONTEND (PRETTIER)
+  - repo: https://github.com/pre-commit/mirrors-prettier
+    rev: v3.1.0 # dernier vewrsion
+    hooks:
+      - id: prettier
+        # on met les fichiers que l'ont veut
+        types_or:
+          [javascript, jsx, ts, tsx, css, scss, html, json, yaml, markdown]
+        # on remove a la main ceux qui sont trop lour ou deja formater de base comme le package.json
+        exclude: |
+          (?x)^(
+              package-lock.json|
+              pnpm-lock.yaml
+          )$
+  - repo: local
+    hooks:
+      - id: eslint
+        name: eslint
+        entry: npx eslint --fix
+        language: system
+        files: \.(ts|tsx|js|jsx)$
+        exclude: |
+          (?x)^(
+            node_modules/|
+            .next/
+          )$

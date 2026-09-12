@@ -1,0 +1,17 @@
+psycopg[binary]==3.3.4
+psycopg2-binary==2.9.12
+python-dotenv==1.2.2
+requests==2.34.2
+jsonpath-ng==1.8.0
+fastapi==0.115.0
+uvicorn==0.30.0
+joblib==1.5.3
+pandas==3.0.3
+numpy==2.4.4
+scikit-learn==1.8.0
+sqlalchemy==2.0.30
+beautifulsoup4==4.14.3
+jupyter
+nbconvert
+ipykernel
+pre-commit

@@ -1,0 +1,4 @@
+Myvenv
+.env
+node_modules
+db

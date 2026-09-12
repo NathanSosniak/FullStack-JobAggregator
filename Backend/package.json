@@ -1,0 +1,40 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API.js",
+  "scripts": {
+    "start": "nodemon --ignore \"JSON/*.json\" script/API.js",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "buffers": "^0.1.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dockerode": "^5.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.5.2",
+    "jsonwebtoken": "^9.0.3",
+    "make-fetch-happen": "^15.0.5",
+    "minio": "^8.0.7",
+    "multer": "^2.1.1",
+    "node-fetch": "^3.3.2",
+    "nodemailer": "^8.0.7",
+    "nodemon": "^3.1.14",
+    "path": "^0.12.7",
+    "pg": "^8.20.0",
+    "tar-stream": "^3.2.0",
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.3.0",
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
+  }
+}

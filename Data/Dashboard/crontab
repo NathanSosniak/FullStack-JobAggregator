@@ -1,0 +1,2 @@
+*/15 * * * * /usr/local/bin/jupyter nbconvert --execute --to notebook --inplace /usr/local/app/candidatures_profession.ipynb >> /var/log/cron.log 2>&1
+*/15 * * * * /usr/local/bin/jupyter nbconvert --execute --to notebook --inplace /usr/local/app/Entreprise_Candidature.ipynb >> /var/log/cron.log 2>&1

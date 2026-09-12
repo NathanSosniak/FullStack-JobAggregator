@@ -1,0 +1,1230 @@
+id_poste,id_entreprise,titre,description,skills,annee_experience,salaire_min,salaire_max,type_contrat,remote_policy,langues,latitude,longitude
+1,1,Senior Back-End Developer,"Sensefuel
+Fondée en 2017 par Christophe et Stéphane, Sensefuel développe une plateforme SaaS de recherche e-commerce et de découverte produits fondée sur une puissante technologie de Deep Learning.
+Avec plus de 100 clients en France et en Europe, Sensefuel offre ses services à de multiples acteurs de l’e-commerce. La solution permet à nos clients d’optimiser leur performance en améliorant les taux","[{'name': 'Javascript', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}]",3,45.0,60.0,"{""permanent"": true}",3.0,fr,,
+2,2,Ingénieur .net / SQL confirmé(e) - Lead - H/F ,"Pour renforcer nos équipes, nous recherchons un(e) ingénieur .net / SQL pour notre site de Marseille.
+Au sein d’une petite équipe agile, animée par un chef de projet et en relation avec le PO, vous avez comme principales missions :
+•	assurer le lead technique de l’équipe,
+•	analyser le besoin métier communiqué par le client pour définir la meilleure stratégie de réalisation,
+•	écrire le code corre","[{'name': '.NET core', 'value': 100.0}, {'name': 'WPF', 'value': 100.0}, {'name': 'Microsoft SQL Server', 'value': 100.0}, {'name': 'Android', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",3,45.0,55.0,"{""permanent"": true}",2.0,fr,,
+3,3,Développeur.se  Full stack Java,"Concepteur-développeur confirmé, vous disposez d'au moins 2 ans d'expériences en développement en Java.
+Nous recherchons des développeurs passionnés qui se démarquent par leur culture technologique, leur esprit d’équipe et leur pragmatisme.
+Nous offrons un environnement bienveillant où le partage est une valeur clé tant entre nous qu'envers la communauté open source.
+Au sein d'une équipe, vos miss","[{'name': 'Java', 'value': 100.0}, {'name': 'Spring', 'value': 70.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'vueJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Javascript', 'value': 30.0}, {'name': 'PostgreSQL', 'value': 70.0}, {'name': 'Docker', 'value': 70.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'Git', 'value': 80.0}, {'name': 'Kubernetes', 'value': 50.0}]",2,32.0,50.0,"{""permanent"": true}",2.0,fr,,
+4,4,Principal Software Engineer Python en startup - Full remote 75/90K,"Description🚀 **Rejoins Mergify en tant que Principal Software Engineer expert Python**  
+  
+**Rémunération brute annuelle : 75k€ à 90k€ en full remote  
+Statut cadre au forfait  
+  
+Avantages : Flexibilité horaire, Full Remote, Tickets Restaurants, BSPCE**  
+  
+  
+🏗️ **L'entreprise : un produit par les techs pour les techs  
+  
+Mergify** révolutionne la manière dont les ingénieurs logiciels gère","[{'name': 'Python', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'Bootstrap', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Redis', 'value': 50.0}]",8,75.0,90.0,"{""permanent"": true}",,,,
+5,4,Lead Software Engineer Fullstack (Node & Vue) 45/60K hybride à Rennes,"🎯L'entrepriseCYIM fondée en 2001, se positionne à l'avant-garde du numérique au service des sociétés savantes de spécialité médicale. Notre mission est d'accompagner ces institutions prestigieuses dans leur transition numérique, en leur fournissant des services informatiques adaptés à leurs besoins spécifiques.  
+**Nos Services Clés :****Gestion d'Événements :** Nous fournissons des plateformes c","[{'name': 'NodeJS', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Gestion de projet', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",6,55.0,60.0,"{""permanent"": true}",2.0,,,
+6,4,Fullstack Software Engineer Saas (Symfony & React) 50/65K full remote,"Description**🚀Rejoins Octorenov pour donner du sens à ta carrière !**  
+  
+Octorenov, une jeune pousse dynamique, qui a vu le jour il y a un an. Filiale de la société NeedHelp, qui opère depuis 2014, Octorenov s'appuie sur son expertise dans le développement d'applications SaaS pour être rapidement opérationnelle.  
+  
+Le produit est un outil de suivi dédié au suivi des prestations d'installation","[{'name': 'Symfony', 'value': 50.0}, {'name': 'DDD', 'value': 50.0}, {'name': 'PHP', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Notion', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Slack', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",8,50.0,65.0,"{""permanent"": true}",3.0,,,
+7,5,Développeur Java / Spring,"“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur","[{'name': 'Spring', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Git', 'value': 50.0}]",2,36.0,55.0,"{""permanent"": true}",3.0,fr,,
+8,5,Développeur Fullstack,"“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur","[{'name': 'React', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Nest', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Blockchain', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}]",2,36.0,55.0,"{""permanent"": true}",3.0,fr,,
+9,4,Lead Software Engineer Fullstack (Node & Vue) 45/60K hybride à Rennes,"🎯L'entrepriseCYIM fondée en 2001, se positionne à l'avant-garde du numérique au service des sociétés savantes de spécialité médicale. Notre mission est d'accompagner ces institutions prestigieuses dans leur transition numérique, en leur fournissant des services informatiques adaptés à leurs besoins spécifiques.  
+
+##### **Nos Services Clés :**
+
+**Gestion d'Événements :** Nous fournissons des plat","[{'name': 'NodeJS', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Gestion de projet', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",6,55.0,60.0,"{""permanent"": true}",2.0,,,
+10,4,Fullstack Software Engineer Saas (Symfony & React) 50/65K full remote,"Description**🚀Rejoins Octorenov pour donner du sens à ta carrière !**  
+  
+Octorenov, une jeune pousse dynamique, qui a vu le jour il y a un an. Filiale de la société NeedHelp, qui opère depuis 2014, Octorenov s'appuie sur son expertise dans le développement d'applications SaaS pour être rapidement opérationnelle.  
+  
+Le produit est un outil de suivi dédié au suivi des prestations d'installation","[{'name': 'Symfony', 'value': 50.0}, {'name': 'DDD', 'value': 50.0}, {'name': 'PHP', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Notion', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Slack', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",8,50.0,65.0,"{""permanent"": true}",3.0,,,
+11,6,Senior Machine Learning Engineer,"About us
+Zar is building the next generation of coaching tools for esports players. We leverage machine learning to provide comprehensive support to gamers in their quest for progression and self-achi","[{'name': 'Python', 'value': 100.0}, {'name': 'NoSQL', 'value': 30.0}, {'name': 'PostgreSQL', 'value': 30.0}, {'name': 'Google Cloud', 'value': 70.0}]",5,,,"{""permanent"": true}",,,,
+12,7,Cloud Ops,"A propos de Neomi
+Neomi est une start-up qui vise à améliorer et faciliter les relations entre banques et promoteurs immobilier. Nous sommes actuellement 8 et en phase de croissance rapide.
+Nous sommes situés en plein cœur de Paris dans un accélérateur de startups (Le Village by CA, 55 rue de la Boétie, 75008 PARIS).
+https://www.linkedin.com/company/neomi-immo/
+Profil recherché
+
+De formation Bac+3","[{'name': 'Kubernetes', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}]",1,40.0,50.0,"{""permanent"": true}",3.0,fr,,
+13,8,DELIVERY MANAGER (H/F),"Le Delivery Manager a pour mission d’encadrer les équipes IT gérant un projet ou produit de bout-en-bout, dans les phases de Build et de Run, et dans un mode de fonctionnement Agile/DevOps.
+
+Son rôle est d’assurer l’efficacité de ses équipes sur les sujets de QoS, de Delivery et d’Agilité, et de veiller à ce qu’elles se montrent à la hauteur du cadre d’autonomie qui leur est confié. Il suit égalem","[{'name': 'Gestion de projet', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",1,40.0,60.0,"{""permanent"": true}",3.0,fr,,
+14,9,Software Engineer in Tests," Overview Testing is an essential part of a software. This is all the more true in the case of medical software where testing is critical to patient safety. Our testing team is at a crossroads of several fieds: business, clinical and technical. At Incepto, the Software Engineer in Tests does not execute manual tests but builds generic and scalable tests automation softwares. He/she is deeply invol","[{'name': 'Java', 'value': 80.0}, {'name': 'Python', 'value': 80.0}, {'name': 'Selenium', 'value': 60.0}, {'name': 'Docker', 'value': 70.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Kubernetes', 'value': 20.0}]",1,,,"{""permanent"": true}",,,,
+15,10,DevOps H/F,"Vos missions
+
+Maintenir en condition opérationnelle les infrastructures virtualisées en diagnostiquant les pannes et les dysfonctionnements
+Configurer et dimensionner les plateformes en fonction des performances requises
+Industrialiser les architectures cibles et configurer les équipements (CI / CD)
+Mettre en place des procédures et outils de surveillance permettant de garantir la haute disponibil","[{'name': 'Google Cloud', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Microsoft SQL Server', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'VMWare', 'value': 50.0}, {'name': 'Ansible', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}]",5,50.0,60.0,"{""permanent"": true}",2.0,fr,,
+16,11,Developpeur Back end ,"Descriptif du poste -  - Chez Xebia nos Développeurs ont l’amour du travail bien fait. Ils ont la volonté de mettre en œuvre les solutions techniques les mieux adaptées pour nos clients. -  - Epris de nouvelles technologies et de partage, ils travaillent en collaboration avec leur équipe et l’ensemble des membres de Xebia afin de façonner la meilleure solution. Artisans du code, ils appliquent les bonnes pratiques de qualité et de développement (tests, analyse du code, performance, etc.) dans la mise en place de leurs créations. -  - Nos espaces de création sont variés et donnent à chacun l’opportunité de partager son savoir : notre blog technique, les conférences les plus courues (Devoxx, Mix IT, etc.), des BBL, nos TechEvents (Mois de la Data by Xebia), la Xebicon … et tout ce que notre imagination de technophiles peut offrir :« Sky is the limit! » -  - Technologies abordées - Bibliothèque de tests unitaires (JUnit, Mocha…) ;
+Outils de couverture de code (Istanbul, Jacoco...) ;
+Logiciels d’analyse de code (SonarQube, Eslint…). -  - Profil recherché -  - Crafts(wo)men passionné(e)s only ! -  - Compétences attendues - Connaissances approfondies d'un ou plusieurs langages de programmation ;
+Bonne culture générale informatique (méthodologies agiles, environnements, intégration continue) ;
+Ouverture sur la communauté ;
+Connaissance théorique et/ou pratique du Test Driven Development ;
+Capacité à estimer la complexité des tâches techniques et Users Stories fonctionnelles. - Déroulement des entretiens -  - Déroulement des entretiens - Postulez à l'offre ; - Échangez avec un recruteur autour de vos envies, de vos passions et de Xebia ; - Développez un exercice technique chez vous dans la technologie de votre choix ; - Rencontrez un Consultant Xebia pour discuter de votre exercice et de ce qui vous anime ; - Rencontrez l'un des Directeurs Opérationnels de Xebia pour un dernier échange ; - Signez votre contrat, et votre intégration commence !","[{'name': 'Java JEE', 'value': 100.0}, {'name': 'Javascript', 'value': 100.0}, {'name': 'Amazon Web Services', 'value': 90.0}, {'name': 'Google Cloud', 'value': 80.0}, {'name': 'vueJS', 'value': 70.0}, {'name': 'Swift', 'value': 70.0}, {'name': 'Kotlin', 'value': 80.0}, {'name': 'Python', 'value': 80.0}, {'name': 'Scala', 'value': 70.0}, {'name': 'AngularJS', 'value': 70.0}, {'name': 'NodeJS', 'value': 70.0}, {'name': 'React', 'value': 80.0}]",2,,,"{""permanent"": true}",,,,
+17,11,Développeur Front-End (H/F),"Mission - ** Le développeur front-end chez Xebia ** : -  - Chez nous, le développeur front-end est un développeur à part entière !  - Il/Elle n’est ni un intégrateur, ni un designer.  - Que nous soyons spécialisé(e)s ou intéressé(e)s  par les frameworks JS du moment en (React, en Vue.js ou en Angular), nos missions nous amènent à nous pencher sur des problématiques aussi diverses que variées. Redux, GraphQL, SSR, Performance, sont donc des termes du quotidien, toujours supportés par une curiosité sans faille et une motivation inébranlable pour faire du craftsmanship. -  - ** Vous partagez avec nous la même vision du job ? Ok, parlons maintenant de l’environnement ! ** -  - Nous sommes agiles et nous avons la passion du craftsmanship. Nous appliquons les bonnes pratiques de qualité et de développement (tests, analyse du code, performance, clean code etc.) dans la mise en place de nos créations.  - Tout cela démontre notre volonté à mettre en œuvre les solutions techniques les mieux adaptées pour nos clients. -  - ** Vous chez nous ? ** -  - Vous aurez la possibilité d'être formé(e), et de partager auprès de la communauté technique tout au long de votre carrière professionnelle notamment avec notre XKE ( Xebia Knowledge Exchange ) qui se déroule une fois par mois au sein de notre siège.  - Mais aussi l'occasion de partager votre savoir sur notre blog technique  au cours des conférences techniques les plus courues (Best of Web, DevFest, dotJS, dotCSS, Devoxx, MiXiT,ect), des BBL, nos TechEvents ou encore la Xebicon. - En bref, tout ce que votre imagination de technophiles peut vous offrir: "" Sky is the limit!"". -  - Profil recherché - Vous avez au moins deux ans d’expérience professionnelle (hors stage) en développement front-end  sur un ou plusieurs des frameworks JS suivants: React, Vue, Angular - Vous avez une bonne connaissance et mise en pratique en HTML5 / CSS3 /JavaScript (ES2018, ESNext) - Vous êtes stimulé(e) par la simple notion du mot “ Craft”  et vous avez une curiosité pour les technologies JavaScript côté serveur (Node.js, GraphQL) - Vous avez une bonne connaissance des standards Web et des appétences sur les problématiques multi-navigateurs, de sécurité et de performances - Vous vous intéressez aux problématiques  UX/UI - ","[{'name': 'Angular', 'value': 70.0}, {'name': 'React', 'value': 80.0}, {'name': 'vueJS', 'value': 70.0}, {'name': 'HTML5', 'value': 70.0}, {'name': 'CSS3', 'value': 70.0}, {'name': 'NodeJS', 'value': 70.0}, {'name': 'Typescript', 'value': 70.0}, {'name': 'Fullstack', 'value': 70.0}]",2,,,"{""permanent"": true}",,,,
+18,12,Tech Lead Mulesoft - Paris,"Vos missions
+ Être Développeur (se) / Tech lead Data Intégration sur Mulesoft c’est :
+  *  Participer au recueil des besoins auprès de nos clients
+  *  Participer à la conception, l’architecture et l’intégration de la solution d’intégration retenue
+  *  Déployer et optimiser au quotidien des pipelines de données dans le Cloud,
+  *  Développer des nouveaux flux/API,
+  *  Apporter / Diffuser une Exp","[{'name': 'Mulesoft', 'value': 50.0}, {'name': 'D3', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}, {'name': 'Groovy', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Kong', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'RabbitMQ', 'value': 50.0}, {'name': 'Talend', 'value': 50.0}, {'name': 'WebMethods', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+19,12,Salesforce Architect - Montpellier (34),"Vos missions :
+
+  *  Analyser la solution globale, sur les plans métiers, fonctionnel et architecture. 
+  *  Définir et mettre en place le schéma directeur SI et être le garant du respect de la roadmap stratégique
+  *  Être force de proposition sur l'orientation du choix de la solution (standard / custom...), ainsi que sur la partie Devops
+  *  Avoir un rôle de conseil prépondérant auprès de nos c","[{'name': 'Salesforce', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Web Components', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+20,12,Lead Développeuse/Développeur Cloud,"Vos missions
+  *  Être garant de la cohérence technique et fonctionnelle de l'application  
+  *  Développer des applications modernes serverless ou à base de container an tirant parti des services managés d’un des providers (AWS, Azure ou GCP)  
+  *  Participer activement à la démarche Finops et Sécurité du projet 
+  *  Accompagner le développement commercial via l’innovation : #LowCode, #IOT, #Ev","[{'name': 'Azure', 'value': 50.0}, {'name': 'IoT', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+21,12,Développeuse / Développeur Frontend Alt  - Nantes,"Vos missions
+
+Vos Missions : 
+Ecouter et analyser le besoin de nos clients ; 
+
+Développer et paramétrer des solutions en Front-End (HTML ; CSS ; Javascript ; Angular ; React ; Node JS) ; 
+
+Réaliser des revues de code en collaboration avec votre équipe ; 
+
+Argumenter les choix de conceptions et d’algorithmes ; 
+
+Tester unitairement les développements réalisés par l’équipe afin de valider les foncti","[{'name': 'Angular', 'value': 50.0}, {'name': 'CSS3', 'value': 50.0}, {'name': 'HTML5', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",1,,,{},,,,
+22,12,Développeuse/Développeur Frontend ALT-Bordeaux,"Vos missions 
+
+Ecouter et analyser le besoin de nos clients ; 
+
+Développer et paramétrer des solutions en Front-End (HTML ; CSS ; Javascript ; Angular ; React ; Node JS) ; 
+
+Réaliser des revues de code en collaboration avec votre équipe ; 
+
+Argumenter les choix de conceptions et d’algorithmes ; 
+
+Tester unitairement les développements réalisés par l’équipe afin de valider les fonctionnalités ; 
+
+R","[{'name': 'Angular', 'value': 50.0}, {'name': 'CSS3', 'value': 50.0}, {'name': 'HTML5', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",1,,,{},,,,
+23,12,Ingénieur / Ingénieure Logiciel Senior - Aix en Provence,"Mission
+
+Dans le cadre du renforcement des équipes, nous recrutons des développeurs logiciel JAVA/JEE sur le site d'Aix en Provence.
+En tant qu’ingénieure/ingénieur logiciel au sein d’une pluridisciplinaire, vos responsabilités principales seront les suivantes :
+  *  Intégrer l’un de nos projets et améliorer la solution déjà existante en développant des nouvelles fonctionnalités.
+  *  Evoluer en e","[{'name': 'Angular', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'Mysql', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+24,12,Senior Tech lead MES -Toulouse,"*  Ecouter et analyser le besoin technique de nos clients
+  *  Coordonner les activités techniques pour tous les aspects du projet, vis-à-vis du client, du management de projet ou des équipes fonctionnelles, en lien avec les architectes projets
+  *  Animer et encadrer une équipe de réalisation (organisation du travail, gestion de la charge…)
+  *  Mettre en place les bonnes pratiques de conception,","[{'name': 'Anglais', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+25,12,Architecte Solution - Aix en provence,"Mission
+
+
+Vous serez intégré au Centre d’Expertise Microsoft / Cloud Azur.
+En tant qu'architecte solutions chez Capgemini, vous serez responsable de l'architecture de bout en bout d'une solution, y compris son assemblage, les choix techniques et sa conformité aux principes architecturaux SI établis avec les clients. 
+Dans ce cadre il faudra : 
+  *  Définir la structure du système, ses interfaces, ","[{'name': 'Angular', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'Blazor', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'JWT', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Safe', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+26,12,Manager SAP PP (Production Planning),"Description de la mission
+
+  *  Management opérationnel des équipes de consultants en mode Agile ou en delivery distribué, assurer le respect des délais, budgets et qualité des livrables sur le stream 
+  *  Identifier les besoins métiers, en particulier sur les processus liés à la planification et à l'exécution de la production 
+
+  *  Formaliser et synthétiser ces informations pour obtenir le busi","[{'name': 'SAP', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Gestion de projet', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+27,12,Ingénieure/Ingénieur développement Mobile iOS - AIX EN PROVENCE,"Mission
+
+
+Dans le cadre de votre fonction de Tech Lead mobile au sein de notre équipe aixoise, vous prendrez en charge les principales responsabilités ci-dessous :
+
+•    Travailler sur les stacks mobiles hybride : Flutter, Angular/Ionic. Avoir des connaissances iOS, Android et sur les stores.
+•    Comprendre les besoins du client, traduire ceux-ci en spécifications techniques, concevoir, chiffrer,","[{'name': 'IOS', 'value': 50.0}, {'name': 'Android', 'value': 50.0}, {'name': 'Flutter', 'value': 50.0}]",10,,,"{""permanent"": true}",,,,
+28,12,Ingénieure / Ingénieur DevOps - Paris,"Vos missions :
+  *  Contribuer à la conception bas niveau des solutions : concevoir des pipelines DevOps (jobs Jenkins, tâches Gradle/MAVEN …)
+  *  Déployer les environnements techniques et les intégrer dans l.écosystème cible
+  *  Vérifier la compatibilité entre les différents composants logiciels matériels ou systèmes,
+  *  Intégrer et tester la solution dans les différents environnements techni","[{'name': 'D3', 'value': 50.0}, {'name': 'Active Directory', 'value': 50.0}, {'name': 'Ansible', 'value': 50.0}, {'name': 'Elasticsearch', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'VMWare', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+29,12,Ingénieure / Ingénieur Full Stack confirmé - Toulouse,"Vos missions
+
+En tant que Développeur Full Stack, vous serez amené à :
+
+  *  Assurer le développement des applications
+  *  Garantir les users stories qui vous seront confiées
+  *  Participer à toutes les phases d'un projet : de la conception à l'intégration
+  *  Intervenir à la fois sur du Front-end (Javascript, Angular, React JS, Vue JS) et sur du Back-end (Java, Node.JS)
+  *  Accompagner la mon","[{'name': 'Angular', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+30,12,Responsable Technique Java JEE Springboot - Toulouse,"Vos missions
+
+Pour intervenir sur les projets de nos clients, nous recherchons des profils expérimentés pour relever des challenges technologiques, innover et travailler en équipe au cœur de la ville rose.
+Vous serez amené à faire valoir votre expérience et votre savoir-faire technique pour :
+  *  Gérer et animer les équipes de développement autour des technologies Java (planification, suivi et co","[{'name': 'Hibernate', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Java JEE', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}, {'name': 'Struts', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+31,12,Architecte Fullstack - Software Craftsmanship spirit - BORDEAUX,"Vos missions : 
+
+Notre équipe d’élite logicielle est avant tout composée de femmes et d’hommes talentueux, inspirants et dotés d’un leadership reconnu en interne mais aussi en externe :  
+  *  Défis complexes : Contribution à la résolution de défis logiciels parmi les plus complexes 
+  *  Opportunités de développement réseau : Développement actif du réseau à travers des participations à des événem","[{'name': 'Réseau', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+32,12,Responsable technique Java / Angular - Toulouse,"Votre rôle
+
+En tant que Responsable technique JAVA/ANGULAR, vous serez amené à :
+  *  Intervenir sur la conception et le développement de solutions innovantes
+  *  Traiter des sujets techniques complexes
+  *  Accompagner la montée en compétence et encadrer techniquement les plus juniors en fonction de votre expérience","[{'name': 'Angular', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Mysql', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+33,12,Ingénieure / Ingénieur Systèmes Virtualisation - Lyon,"Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Vous serez soutenu et accompagné au sein d'une communauté collaborative composée de collègues du monde entier, où vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuez à libérer la valeur de la technologie pour les plus ","[{'name': 'VMWare', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+34,12,Ingénieure / Ingénieur Systèmes Linux Confirmé(e) - Grenoble,"Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d’experts dans le monde entier, vous pourrez réécrire votre futur.  Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et partic","[{'name': 'Puppet', 'value': 50.0}, {'name': 'VMWare', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+35,12,Architecte de solution JAVA - Toulouse,"Vos missions
+
+En tant qu’Architecte de solution, vous serez amené à :
+-    Concevoir et architecturer des solutions de bout en bout
+-    Assurer l’encadrement technique des projets 
+-    Garantir la cohérence technique 
+-    Intervenir sur le processus de transformation digitale 
+-    Mener des ateliers avec l’ensemble des intervenants et construire la solution la plus adaptée
+-    Encadrer de jeu","[{'name': 'Java', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Spring Cloud', 'value': 50.0}]",10,,,"{""permanent"": true}",,,,
+36,12,Ingénieure / ingénieur DevOps confirmé - Toulouse,"Vos missions
+
+Dans le cadre d’une mission DevOps pour l’un de nos clients grand compte, vous intègrerez une équipe projet composée de consultants expérimentés dans leurs domaines respectifs.
+
+Ainsi, vous interviendrez sur les activités suivantes :
+· Participer au design et au build de solutions DevOps et notamment sur les aspects : Continuous Integration, Continuous Deployment ;
+· Participer à l’a","[{'name': 'Ansible', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}]",4,,,"{""permanent"": true}",,,,
+37,13,Développeur React / Spring Boot,"Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.
+Nous avons créé la Guilde Développement MAIF, qui constitue un collectif tourné vers le partage, l'entraide et un objectif commun : être un espace d'échange, de partage de connaissance pour faire vivre et ","[{'name': 'Java', 'value': 100.0}, {'name': 'Javascript', 'value': 100.0}, {'name': 'Spring', 'value': 100.0}, {'name': 'React', 'value': 100.0}, {'name': 'Spring Boot', 'value': 100.0}]",2,39.0,52.0,"{""permanent"": true}",3.0,fr,,
+38,14,Développeur(se) Full-Stack .NET / Mobile (React Native) – Mid-Senior / Senior,"Contexte
+Nous développons un produit SaaS B2B avec de vraies contraintes métier et techniques.
+L’équipe est aujourd’hui orientée back-end / web, et nous lançons une application mobile qui viendra compléter l’écosystème existant.
+Je suis CTO et je cherche un profil capable de :
+
+piloter le développement mobile et le déploiement
+m’épauler techniquement sur le back-end
+
+On cherche quelqu’un de pragma","[{'name': '.NET core', 'value': 50.0}, {'name': 'Blazor', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'NoSQL', 'value': 50.0}, {'name': 'DDD', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'React Native', 'value': 50.0}]",5,40.0,75.0,"{""permanent"": true}",1.0,fr,,
+39,15,Développeu·r·se mobile Flutter,"Ensemble boostons leur impact en développant leur potentiel mobile !
+Depuis plus de 10ans, Beapp aide les entreprises (PME/ETI, grands comptes, startup) à déployer des applications mobiles utiles et impactantes pour leurs activités tout en prenant en compte les enjeux environnementaux et sociaux d'un numérique responsable. Rejoins l'aventure humaine Beapp pour apporter à nos clients toute ton expe","[{'name': 'Flutter', 'value': 100.0}, {'name': 'Android', 'value': 50.0}, {'name': 'iOS', 'value': 50.0}]",2,32.0,39.0,"{""permanent"": true}",3.0,fr,,
+40,16, Senior Front end Developer (Vue/Tailwind),"Mission
+En intégrant ALIAS, votre mission, si vous l'acceptez, est de gérer le développement front-end sur ses site web, applications, repo Open source, et participer aux choix techniques de l'équipe tech, afin de rendre nos outils de Protection des données et de Privacy management faciles à utiliser, agréables et fonctionnels.
+Votre mission consiste à :
+
+Gérer le développement avec un développeur","[{'name': 'vueJS', 'value': 100.0}, {'name': 'NUXT', 'value': 100.0}, {'name': 'Tailwind CSS', 'value': 85.0}, {'name': 'Typescript', 'value': 80.0}, {'name': 'Github', 'value': 100.0}, {'name': 'Javascript', 'value': 100.0}, {'name': 'NodeJS', 'value': 20.0}, {'name': 'Wordpress', 'value': 50.0}]",5,40.0,55.0,"{""permanent"": true}",3.0,fr,,
+41,17,Software QA,"Chez Exotec, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques du commerce et de l’industrie, tout en améliorant les conditions de travail de leurs ","[{'name': 'SQL', 'value': 50.0}, {'name': 'Git', 'value': 50.0}]",2,,,"{""permanent"": true}",1.0,fr,,
+42,18,Responsable de projet en production (F/H),"Contexte : Hébergement, Exploitation et Pilotage d’applications critiques pour le client DILA (Direction de l'Information Légale et Administrative) dont Légifrance.   Missions : ElasticSearch, Varnish, etc.) Piloter efficacement le déploiement de solutions applicatives Initier et accompagner l’équipe projet dans l’industrialisation des processus (livraison, déploiement applications) Prendre en mai","[{'name': 'Java', 'value': 75.0}, {'name': 'Elasticsearch', 'value': 70.0}, {'name': 'Docker', 'value': 70.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'Linux System', 'value': 90.0}]",4,,,"{""permanent"": true}",,,,
+43,19,DEVELOPPEUR (SE) WEB PHP,"Au sein de notre équipe de développeurs web, vous intervenez sur la conception, le développement et la maintenance des applications et sites internet du Groupe.    Pour ce faire vos missions s’articulent de la façon suivante : Assurer la conception (analyse, architecture du code, faisabilité et estimation des délais) Développer les fonctionnalités Tester et valider les fonctionnalités développées ","[{'name': 'PHP', 'value': 70.0}, {'name': 'Symfony', 'value': 70.0}, {'name': 'Mysql', 'value': 70.0}, {'name': 'OpenAPI / Swagger', 'value': 70.0}]",2,28.0,35.0,"{""permanent"": true}",,,,
+44,20,Developper Full Stack SAP,"Vous êtes développeur informatique ayant des compétences dans des ERP et des techniques en voie d’obsolescence, tel que Oracle, PeopleSoft, AIX…? - Vous  avez des compétences web, Javascript, HTML5, et vous voudriez participer à des projets ambitieux, en équipe, sur des technos de pointe? - En tout cas, la conception, la programmation, et les projets en équipe vous passionnent. - Vous aimeriez booster et assoir votre carrière en montant compétence sur l'ERP leader SAP et ses dernières offres S/4HANA et son Framework de développement web FIORI UI5. - Nous proposons à de bons professionnels, aimant le développement, souhaitant travailler en projet entouré de vrais collègues, de nous rejoindre pour  accélérer leur carrière : - Nous vous formerons aux nouvelles offres SAP et framework web - Nous vous accompagnerons dans une montée en compétence rapide - Vous prendrez des responsabilités sur des projets de pointe accompagné par des experts - Vous travaillerez dans une ambiance sereine, bienveillante, de partage et d'entraide  - Contactez-nous, CV + message de motivation à rh@progressmanagement","[{'name': 'SAP', 'value': 100.0}, {'name': 'HTML5', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'jQuery', 'value': 30.0}, {'name': 'Git', 'value': 30.0}, {'name': 'Backend', 'value': 50.0}, {'name': 'Frontend', 'value': 50.0}, {'name': 'Java', 'value': 20.0}]",6,,,"{""permanent"": true}",,,,
+45,21,Développeur Web Back-end PHP/Symfony (H/F),"
+Ta mission (si tu l’acceptes)
+Pour accompagner le développement digital de Rapid Flyer et des projets IT Groupe, tu interviendras en tant que référent sur les projets suivants : 
+La refonte d’un e-co","[{'name': 'Symfony', 'value': 90.0}, {'name': 'Docker', 'value': 90.0}, {'name': 'PHP', 'value': 90.0}, {'name': 'Mysql', 'value': 90.0}, {'name': 'MongoDB', 'value': 90.0}, {'name': 'Doctrine', 'value': 90.0}, {'name': 'Javascript', 'value': 70.0}, {'name': 'Gitlab', 'value': 70.0}, {'name': 'Git', 'value': 70.0}]",2,,,"{""permanent"": true}",,,,
+46,21,Développeur Web Front-end React/Next.js (H/F),"Ta mission (si tu l’acceptes)
+Afin de renforcer l’équipe IT, nous sommes à la recherche d'un profil dynamique, fort de proposition ayant l'envie de structurer et manager l’équipe front-end . Tu intégreras une équipe constituée d’un CTO et de 4 dév. back-end et front-end, tu évolueras sur une pile technologique Kubernetes, incluant un grand nombre de services variés comprenant Mysql, Rabbi","[{'name': 'React', 'value': 100.0}, {'name': 'Next JS', 'value': 100.0}, {'name': 'Redux', 'value': 100.0}, {'name': 'styled-components', 'value': 100.0}, {'name': 'Git', 'value': 100.0}, {'name': 'Jest', 'value': 100.0}, {'name': 'CSS3', 'value': 50.0}]",4,40.0,45.0,"{""permanent"": true}",1.0,fr,,
+47,22,Leader technique JAVA,"Engagé.e.s pour l'égalité des chances, nous pensons que la diversité est une richesse. Nous savons respecter, apprécier et valoriser les différences de chacun.e : ce sont vos qualités humaines qui seront considérées.
+“Connect and Create for Change”... with us !
+IT Link, expert des systèmes connectés
+Chez IT Link, cela fait 35 ans que nous misons sur la connexion des technologies, des objets et des","[{'name': 'Java', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}, {'name': 'NoSQL', 'value': 50.0}]",7,45.0,55.0,"{""permanent"": true}",2.0,fr,,
+48,23,Ingénieur DEVOPS,"Rejoins Apside Nantes pour travailler sur les projets de demain !
+Le poste ?
+En assistance technique ou sur nos plateaux, tu rejoins nos équipes organisées en mode Agile pour contribuer à la réussite de nos projets auxquels tu apporteras tes compétences et ton esprit d’équipe. Tu es responsable d’assurer l’intégration, la disponibilité et la performance d'applications métiers (banque/assurance, Tr","[{'name': 'Docker', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}]",3,35.0,50.0,"{""permanent"": true}",3.0,fr,,
+49,24,Software Engineer,"Nous poursuivons notre croissance et nous ouvrons plusieurs postes de : Développeur Fullstack, Front-end et Back-end .   Vous êtes en charge de concevoir, développer, livrer et maintenir notre plateforme SaaS. Vous contribuez à la création et au déploiement d’application web / mobiles élégantes, scalables et riches fonctionnellement.  Plus précisément :  En lien avec l’équipe Product Management et","[{'name': 'Angular', 'value': 100.0}, {'name': 'Java', 'value': 100.0}, {'name': 'React', 'value': 75.0}, {'name': 'Javascript', 'value': 75.0}, {'name': 'Spring Boot', 'value': 90.0}, {'name': 'Google Cloud', 'value': 100.0}]",3,42.0,65.0,"{""permanent"": true}",,,,
+50,25,Ingénieur développement JAVA / J2EE H/F,"Mission - Votre mission, si vous l'acceptez, sera de : -  - De concevoir et réaliser le développement d'applications en concordance avec les besoins exprimés par nos clients :  - JAVA 8 et 11, Spring (Core, Boot, Data, Cloud Config) - Gitlab, Maven, Gradle, Jenkins, Sonar, Bitbucket, JIRA - Docker - Hibernate, Oracle, Elasticsearch, MongoDB, MySQL - De produire les dossiers de tests unitaires et tests d'intégration et exécuterez les procédures de test afin de contrôler le bon fonctionnement des applications - De réaliser et participer aux tâches liées à la méthode Agile : Backlog, Sprint, Daily meeting, Storyboard... -  - Votre profil : - Vous êtes passionné(e) par le code propre et les tests automatisés ? Créatif(ve), vous proposez de nouvelles idées et aimez les mettre en application ? Vous êtes la personne que l'on recherche ! - ","[{'name': 'Java', 'value': 70.0}, {'name': 'Java JEE', 'value': 70.0}, {'name': 'Gitlab', 'value': 70.0}, {'name': 'Bitbucket', 'value': 70.0}, {'name': 'Docker', 'value': 70.0}, {'name': 'Oracle', 'value': 70.0}, {'name': 'Elastic search', 'value': 70.0}, {'name': 'MongoDB', 'value': 70.0}, {'name': 'Mysql', 'value': 70.0}, {'name': 'Devops', 'value': 70.0}, {'name': 'C++', 'value': 70.0}, {'name': 'C#', 'value': 70.0}]",0,,,"{""permanent"": true}",,,,
+51,23,Consultant MOA ,"Rejoins Apside Nantes pour travailler sur les projets de demain !
+Le poste & le projet ?
+Tu rejoins nos équipes organisées en mode Agile pour contribuer à la réussite de nos projets auxquels tu apporteras tes compétences et ton esprit d’équipe. Amené(e) à travailler avec différentes équipes, tu traduis en solutions informatiques les demandes des clients internes :
+
+Analyse de l'existant, expressio","[{'name': 'Agile', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}]",1,28.0,45.0,"{""permanent"": true}",3.0,fr,,
+52,26,Techleader ,"🤗 Rejoins notre collectif d’experts et deviens Associé.e Talosi ! Chez Talosi, bienvenue chez toi, bienvenue chez nous 🤗
+Qui êtes vous ❓
+🚀 Créée par des passionnées de techs 🤓 qui œuvrent sur l’eco-système depuis des années, Talosi en finnois signifie « ta maison »🏡 . Dans ce collectif et projet commun, tout sera fait pour que tu te sentes chez toi 🙋‍♀️
+Par-delà les valeurs que nous partageo","[{'name': 'NodeJS', 'value': 50.0}, {'name': 'Express', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'vueJS', 'value': 50.0}, {'name': 'NUXT', 'value': 50.0}, {'name': 'Amazon Web Services', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'Svelte', 'value': 50.0}]",3,37.0,55.0,"{""permanent"": true}",2.0,fr,,
+53,27,Auditeur mixte Financier & IT Junior Parcours Continuum CDI H/F,"L'audit, c'est notre métier historique, mais cela ne nous empêche pas de le faire évoluer. Dans un monde en mutation, PwC vise à être l'acteur de référence de la création de confiance et de la transformation durable des entreprises.
+
+Nos 1 600 collaborateurs peuvent ainsi se concentrer sur des missions à haute valeur ajoutée grâce à nos investissements dans la technologie et dans les enjeux ESG qu","[{'name': 'Crystal', 'value': 100.0}, {'name': 'Réseau', 'value': 100.0}]",0,39.0,46.0,"{""permanent"": true}",2.0,,,
+54,27,Manager SAP Architecture-Cloud-BTP | CDI | H/F,"**Ce que vous pouvez attendre de nous**
+
+*   Des missions sur **nos secteurs stratégiques**  auprès de nos clients de longue date en France et à l'étranger et en particulier : « Retail and Consumer », « Energy and Utilities » et « Aerospace and Defence » ;
+   
+*   Des interventions au cœur **des grands projets de transformation et d'optimisation des processus** telles que : la définition du schéma","[{'name': 'SAP', 'value': 100.0}, {'name': 'Crystal', 'value': 100.0}]",5,70.0,80.0,"{""permanent"": true}",3.0,,,
+55,27,Consultant Expérimenté | ERP/SAP | CDI | H/F,"**Ce que vous pouvez attendre de la mission :**
+
+*   Participer aux phases amonts des projets ; définition des stratégies métiers, du schéma directeur d'entreprise, des grandes orientations initiales
+   
+*   Concevoir, réaliser et mettre en œuvre les solutions SAP de nos clients en connaissance des bonnes pratiques métier
+   
+*   Piloter et assurer le reporting de grands projets d'implémentation S","[{'name': 'SAP', 'value': 100.0}, {'name': 'Réseau', 'value': 100.0}, {'name': 'Crystal', 'value': 100.0}]",3,51.0,70.0,"{""permanent"": true}",3.0,,,
+56,28,Product Owner (F/H),"Vous souhaitez ?
+
+Intégrer une entreprise renommée, classée ""Great Place To Work"" pour la qualité de son environnement professionnel ;
+Diriger et contribuer à la création de produits innovants dans le domaine de l'IT ;
+Collaborer avec des équipes talentueuses pour développer des solutions répondant aux besoins des clients.
+
+Que proposons-nous ?
+
+En tant que Product Owner, vous jouerez un rôle clé ","[{'name': 'Agile', 'value': 50.0}, {'name': '.NET core', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}]",3,,,"{""permanent"": true}",1.0,fr,,
+57,29,R&D Développeur back-end Java (H/F),"JFrog est une startup en pleine croissance, éditrice d'outils DevOps de gestion de binaire, avec un incroyable portfolio de clients incluant SAP, Amadeus, Twitter, LinkedIn, Netflix, Riot Games, Bosch","[{'name': 'Java', 'value': 70.0}, {'name': 'Go', 'value': 70.0}, {'name': 'SQL', 'value': 70.0}]",3,,,"{""permanent"": true}",,,,
+58,30,Développeur confirmé F/H,"Dans le cadre du développement de son activité, le Groupe ADENES recherche un développeur confirmé F/H pour son bureau de Lyon (3eme). 
+
+  
+
+Rattaché à la Direction des Solutions d'Expertises, votre rôle est d’assurer que les projets menés répondent aux besoins et enjeux des directions métier et apportent la valeur ajoutée attendue pour l’entreprise. 
+
+Vos missions :
+
+*   Atteindre les objectifs p","[{'name': 'Azure', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'NUXT', 'value': 50.0}, {'name': 'PHP', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Symfony', 'value': 50.0}, {'name': 'Kanban', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",0,39.0,50.0,"{""permanent"": true}",1.0,,,
+59,27,Chef de Projet IT Débutant / PMO | CDI | H/F,"Au sein de Consulting, la Business Unit Operational Solutions (OPSOL) regroupe près de 300 collaborateurs autour des métiers de l'Expertise Comptable, du Renfort Opérationnel et de l'Externalisation de la Paie.
+
+Le renfort opérationnel aux directions financières et aux directions des Systèmes d'Information chez PwC est l'un des principaux atouts concurrentiels du groupe.
+
+Sa promesse ?
+
+Une assist","[{'name': 'Gestion de projet', 'value': 100.0}, {'name': 'Réseau', 'value': 100.0}]",3,0.0,0.0,"{""permanent"": true}",3.0,,,
+60,31,Développeur.se iOS,"📢 Imaginez un lieu où votre voix compte autant que vos compétences…
+Chez Listen too, nous sommes convaincus que l’écoute est indissociable du progrès. Cultivée au quotidien, elle devient un catalyseur de croissance et de réussite, tant pour l’entreprise que pour ses collaborateur·rice·s.
+Listen too est une agence conseil spécialisée depuis 2013 dans la digitalisation de la Relation Client & Colla","[{'name': 'Swift', 'value': 50.0}, {'name': 'IOS', 'value': 50.0}, {'name': 'SwiftUI', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,fr,,
+61,31,Développeur Fullstack Node.JS,"📢 Imaginez un lieu où votre voix compte autant que vos compétences…
+Chez Listen too, nous sommes convaincus que l’écoute est indissociable du progrès. Cultivée au quotidien, elle devient un catalyseur de croissance et de réussite, tant pour l’entreprise que pour ses collaborateur·rice·s.
+Listen too est une agence conseil spécialisée depuis 2013 dans la digitalisation de la Relation Client & Colla","[{'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'NestJS', 'value': 50.0}, {'name': 'ReactQuery', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,fr,,
+62,32,Auditeur - Inspecteur IT H/F,"Vous rejoindrez une fonction d'audit intégrée, mondiale et indépendante, rattachée à la Direction Générale du Groupe. Elle intervient sur l'ensemble des activités, en France comme à l'international, afin d'évaluer la gouvernance, la gestion des risques et les dispositifs de contrôle interne, en toute indépendance. Vous évoluerez dans un environnement stimulant, exigeant et collaboratif, au contact","[{'name': 'Management', 'value': 100.0}]",3,45.0,65.0,"{""permanent"": true}",2.0,,,
+63,33,Développeur Ruby on Rails,"Rejoignez notre petite équipe pour travailler sur un projet intéressant et en constante évolution.
+Nous sommes à la recherche d'un développeur web pour accompagner le lead developer sur le développement de notre logiciel LUCY, un logiciel métier complet à destination des agents commerciaux en immobilier.
+Profil recherché :
+- 1-4 années d'expérience en développement web avec Ruby On Rails
+- connais","[{'name': 'Rails', 'value': 50.0}, {'name': 'Ruby', 'value': 50.0}, {'name': 'StimulsJS', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Linux System', 'value': 50.0}]",1,28.0,40.0,"{""permanent"": true}",4.0,fr,,
+111,12,Ingénieure / Ingénieur Systèmes Virtualisation - Lyon,"Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Vous serez soutenu et accompagné au sein d'une communauté collaborative composée de collègues du monde entier, où vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuez à libérer la valeur de la technologie pour les plus ","[{'name': 'VMWare', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+64,34,⭐ Lead Dev JAVA (H/F),"⭐ Lead Développeur(euse) JAVA Spring Boot
+
+Tu cherches une boite avec des valeurs fortes et à taille humaine, tu as un regard aiguisé sur le code et tu as envie de faire progresser chaque membre de ton équipe, techniquement comme humainement. Alors clique sur « voir plus » !
+
+Tu veux faire ça dès demain ?
+
+Intégrer une équipe chez un client, ou à l’agence, pour apporter ton expertise technique et ","[{'name': 'Java', 'value': 70.0}, {'name': 'Kafka', 'value': 70.0}, {'name': 'Spring Boot', 'value': 70.0}, {'name': 'Jenkins', 'value': 70.0}, {'name': 'Docker', 'value': 70.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}]",6,47.0,57.0,"{""permanent"": true}",2.0,fr,,
+65,35,Développeur web Full Stack H/F en Alternance,"1) Pourquoi les techs sont heureux dans votre entreprise ou pourquoi vous rejoindre
+Notre entreprise est une société de services très reconnue dans le domaine de l'automobile : formation, assistance technique téléphonique et solutions logicielles. Située sur un marché de niche, la société est en croissance, dégageant régulièrement de bons résultats et donc un intéressement annuel pour ses salariés","[{'name': 'Javascript', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'vueJS', 'value': 50.0}, {'name': 'Quasar', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}]",0,,,{},1.0,fr,,
+66,27,EPM Tax Technology Senior Consultant | CDI | H/F,"**Ce que vous pouvez attendre de nous :**
+
+Notre équipe développe et déploie des solutions technologiques permettant aux entreprises de répondre aux exigences croissantes de transparence et de divulgation d'informations, qu'il s'agisse du public, des autorités ou d'autres parties prenantes.
+
+Nos clients comptent parmi les plus grandes multinationales françaises opérant dans différents secteurs.
+
+N","[{'name': 'SAP', 'value': 100.0}, {'name': 'Conception fonctionnelle', 'value': 100.0}, {'name': 'Gestion de projet', 'value': 100.0}]",4,75.0,76.0,"{""permanent"": true}",2.0,,,
+67,36,DevOps,"Eterniti is the leading operator of vacation rentals in iconic holiday destinations, led by a passion for excellence, authentic adventures, and hospitality. With over €2 billion in assets under management, we operate 800+ chalets, villas and apartments under 3 consumer brands: Emerald Stay (our 4* brand), Bo House (our 5* & palace brand) and Verbier Exclusive (our palace brand). Our guests can dis","[{'name': 'NodeJS', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'Amazon Web Services', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Linux System', 'value': 50.0}]",3,45.0,50.0,"{""permanent"": true}",3.0,en,,
+68,37,Développeur Java /F,"Chez norsys, on allie innovation pour un numérique efficace et responsable.
+En 2021, on pose les bases d’un modèle unique : la Permaentreprise. Inspiré de la permaculture, ce concept vise à concilier performance économique, bien-être des collaborateurs et impact positif sur la société et l’environnement.
+Avec 750 permamakers (c'est comme ça qu'on appelle nos collaborateurs.trices), on accompagne n","[{'name': 'Java', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'JSS', 'value': 50.0}]",4,40.0,50.0,"{""permanent"": true}",2.0,fr,,
+69,38,Ingénieur réseau,"L'Ingénieur Réseau est responsable de la gestion et de la maintenance des infrastructures de réseau de l'entreprise. Il veille à ce que les réseaux soient sécurisés, performants et disponibles, tout en assurant la connectivité entre les différents systèmes et utilisateurs.
+
+Responsabilités :
+
+Configuration Réseau : Configurer et gérer les équipements réseau tels que les routeurs, les commutateurs ","[{'name': 'Windows OS', 'value': 50.0}, {'name': 'Linux System', 'value': 50.0}, {'name': 'Réseau', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,fr,,
+70,30,Intégrateur / Designer   BPM (CAMUNDA) confirmé F/H,"ADENES, groupe international spécialisé dans l’expertise après sinistre, recrute un **Intégrateur / Designer BPM (Camunda) confirmé (F/H)** pour renforcer son équipe BPM dans le cadre de son développement.Une expertise sur **Camunda 8** est requise.
+
+Vous jouerez un rôle clé dans la **conception, le développement et l’optimisation des processus métiers**, en lien étroit avec les équipes techniques","[{'name': 'Anglais', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",0,37.0,44.0,"{""permanent"": true}",1.0,,,
+71,30,Développeur confirmé F/H,"Dans le cadre du développement de son activité, le Groupe ADENES recherche un développeur confirmé F/H pour son bureau de Lyon (3eme). 
+
+  
+
+Rattaché à la Direction des Solutions d'Expertises, votre rôle est d’assurer que les projets menés répondent aux besoins et enjeux des directions métier et apportent la valeur ajoutée attendue pour l’entreprise. 
+
+Vos missions :
+
+*   Atteindre les objectifs p","[{'name': 'Azure', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Kanban', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",0,39.0,50.0,"{""permanent"": true}",1.0,,,
+72,39,Lead Consultant.e Java / JS / Craft,"Qui sommes-nous ?🐱‍🏍
+Ce qui nous anime
+Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech. Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.
+Pour cela nous nous efforçons d'embaucher les meille","[{'name': 'Spring', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Svelte', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Cucumber', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}]",3,43.0,56.0,"{""permanent"": true}",3.0,fr,,
+73,39,Offre Lead Agency Paris - Consultant.e Fullstack React / Spring Boot / Craft,"Qui sommes-nous ?🐱‍🏍
+Ce qui nous anime
+Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech. Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future : plus évidente, plus inclusive, plus durable, plus j","[{'name': 'Java', 'value': 100.0}, {'name': 'Spring', 'value': 100.0}, {'name': 'VueJS', 'value': 85.0}, {'name': 'Agile', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'AngularJS', 'value': 85.0}]",5,54.0,70.0,"{""permanent"": true}",3.0,fr,,
+74,39,Lead Consultant.e React.js ou Vue.js / Spring Boot  / Craft,"Qui sommes-nous ?🐱‍🏍
+Ce qui nous anime
+Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech. Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.
+Pour cela nous nous efforçons d'embaucher les meille","[{'name': 'Spring', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Svelte', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Cucumber', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}]",4,43.0,56.0,"{""permanent"": true}",2.0,fr,,
+75,39,Consultant.e Fullstack / Craft,"Qui sommes-nous ?🐱‍🏍
+Ce qui nous anime
+Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech. Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.
+Pour cela, nous nous efforçons d'embaucher les meill","[{'name': 'Spring', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Svelte', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Cucumber', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}]",3,48.0,70.0,"{""permanent"": true}",3.0,fr,,
+76,39,Consultant.e Cloud & DevOps,"Votre rôle ⭐
+Nos équipes Cloud & DevOps interviennent de la définition d’une architecture jusqu’à la mise en production. Nous accompagnons nos clients face aux évolutions technologiques en proposant différentes expertises en phase avec les innovations d’aujourd’hui :
+
+Sur les principaux fournisseurs cloud, AWS, Azure, GCP, OVH et de la culture DevOps.
+Les aspects Infra As Code, Conteneur (Docker, ","[{'name': 'Azure', 'value': 50.0}, {'name': 'Amazon Web Services', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'ArgoCD', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}, {'name': 'Vault', 'value': 50.0}]",3,41.0,60.0,"{""permanent"": true}",3.0,fr,,
+77,39,Consultant.e Cloud & DevOps Lille,"Votre rôle ⭐
+Nos équipes Cloud & DevOps interviennent de la définition d’une architecture jusqu’à la mise en production. Nous accompagnons nos clients face aux évolutions technologiques en proposant différentes expertises en phase avec les innovations d’aujourd’hui :
+
+Sur les principaux fournisseurs cloud, AWS, Azure, GCP, OVH et de la culture DevOps.
+Les aspects Infra As Code, Conteneur (Docker, ","[{'name': 'Python', 'value': 50.0}, {'name': 'Kubernetes', 'value': 70.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Terraform', 'value': 75.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'ArgoCD', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}]",3,41.0,60.0,"{""permanent"": true}",3.0,fr,,
+78,39,Consultant.e Cloud & DevOps,"Votre rôle ⭐
+Nos équipes Cloud & DevOps interviennent de la définition d’une architecture jusqu’à la mise en production. Nous accompagnons nos clients face aux évolutions technologiques en proposant différentes expertises en phase avec les innovations d’aujourd’hui :
+
+Sur les principaux fournisseurs cloud, AWS, Azure, GCP, OVH et de la culture DevOps.
+Les aspects Infra As Code, Conteneur (Docker, ","[{'name': 'Azure', 'value': 50.0}, {'name': 'Amazon Web Services', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'ArgoCD', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}, {'name': 'Vault', 'value': 50.0}]",3,48.0,70.0,"{""permanent"": true}",3.0,fr,,
+79,39,Consultant.e Fullstack Java / Js / Craft,"Qui sommes-nous ?🐱‍🏍
+Ce qui nous anime
+Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech. Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.
+Pour cela, nous nous efforçons d'embaucher les meill","[{'name': 'Spring', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Svelte', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Cucumber', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}]",3,41.0,56.0,"{""permanent"": true}",2.0,fr,,
+80,40,Achitect Tech Lead Microsoft H/F,"Rejoignez VISEO et découvrez un monde de possibilités où nous mettons l'Humain, le Collectif et le Challenge au cœur de tout ce que nous faisons.
+Qui êtes-vous ?
+De formation Bac+5 en informatique, vous justifiez impérativement d'au moins 3 ans dans le rôle et avez une expérience de développement d’au moins 7 à 10 ans. Vous êtes évidemment aguerri aux méthodes agiles et avez participé à plusieurs ","[{'name': 'C#', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}, {'name': 'DDD', 'value': 50.0}]",8,,,"{""permanent"": true}",3.0,fr,,
+81,41,Développeur Backend Scala F/H,"Missions : Au sein d'une équipe agile autonome, vous serez amené à intervenir sur la colonne vertébrale du SI: le moteur de transactions monétaires (core banking).  A ce titre, vous serez amené à : Développer l'aspect technique et implémenter des applicatifs du Core Banking Participer à l'ensemble du processus de développement et aux cérémonies agiles Participer à la démarche d'amélioration contin","[{'name': 'Scala', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'cassandra', 'value': 50.0}]",1,,,"{""permanent"": true}",,,,
+82,41,Développeur Full Stack Java / React F/H,"Mission Nous recherchons un.e développeur Full stack pour renforcer notre équipe IT.  Au sein d'une squad Agile constituée de développeurs passionnés par la technique, vous interviendrez sur les applications qui permettent notamment à nos clients de souscrire à nos offres et de réaliser leurs opérations courantes mais aussi à nos buralistes et à notre service client / conformité d’accompagner tous","[{'name': 'Java', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+83,41,Développeur Informatique F/H,"Vous souhaitez rejoindre une squad pluridisciplinaire d'une dizaine de personnes, qui participe au build et au run de l'espace client web de nos clients (+ de 3 millions d'utilisateurs). 
+Vos missions sont :
+
+Contribuer aux choix d'architecture et concevoir de nouvelles fonctionnalités
+Être le garant de la qualité du code et des performances (software craftsmanship)
+Contribuer à l'animation, au pa","[{'name': 'Docker', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'T-SQL', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Spring Batch', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}]",5,45.0,55.0,"{""permanent"": true}",3.0,fr,,
+84,42,Développeur IOS,"Avec une équipe de presque 40 personnes au sein de la Direction Technique Digital, nous nous occupons de l'exposition digital de BFMTV, BFM Régions, BFM Business, RMC Sport, RMC, 01Net, ZoneTurf; aussi bien sur le web que les applications mobiles, également l'audio et la vidéo en linéaire et non linéaire, et depuis peu, le nouveau service de replay unifié RMC BFM Play.  L’équipe Mobile a pour miss","[{'name': 'iOS', 'value': 50.0}, {'name': 'Objective C', 'value': 50.0}, {'name': 'Swift', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+85,42,Lead Dev Android," Avec une équipe de presque 40 personnes au sein de la Direction Technique Digital, nous nous occupons de l'exposition digital de BFMTV, BFM Régions, BFM Business, RMC Sport, RMC, 01Net, ZoneTurf; aussi bien sur le web que les applications mobiles, également l'audio et la vidéo en linéaire et non linéaire, et depuis peu, le nouveau service de replay unifié RMC BFM Play.  L’équipe Mobile a pour mis","[{'name': 'Kotlin', 'value': 50.0}, {'name': 'Groovy', 'value': 50.0}, {'name': 'Firebase', 'value': 50.0}, {'name': 'Amazon Web Services', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+86,42,Développeur Android,"La Direction Technique Digitale d'Altice Media a pour objectif l'exposition digitale de BFMTV, BFM Business, BFM Régions, Tech & Co, RMC Sport, RMC aussi bien sur le web que les applications mobiles, également l'audio et la vidéo en linéaire et non linéaire et depuis peu le nouveau service de replay unifié RMC BFM Play. Au sein de l'équipe Mobile, sous la responsabilité du Tech Manager du pôle, et","[{'name': 'Android', 'value': 100.0}, {'name': 'Kotlin', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Firebase', 'value': 50.0}, {'name': 'SonarQube', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+87,43,Développeur Backend c# / .Net (H/F), Nous ouvrons le poste à des développeurs jeunes diplômés ou avec une récente expérience de développement. Vous serez accompagné par des développeurs expérimentés. L'équipe actuelle est composée de 7 développeurs !☺  Mission Vous travaillerez au quotidien en étroite collaboration avec les chefs de projets qui élaborent le cahier des charges. Vous interviendrez dans l'analyse technique et fonctionn,"[{'name': '.NET core', 'value': 70.0}, {'name': 'C#', 'value': 50.0}, {'name': 'SQL', 'value': 80.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'CSS3', 'value': 50.0}]",0,30.0,35.0,"{""permanent"": true}",,,,
+88,44,1 INGÉNIEUR PENTESTER (H/F) ,"Mission Rattaché(e) à la DIRECTION SYSTÈME D'INFORMATION, votre mission consiste à prévenir, détecter et réagir, en coordination avec les équipes opérationnelles, aux vulnérabilités et aux cybermenaces pouvant impacter le Système d’Information tenant compte des risques liés à la Cybersécurité.   • Préparer, piloter et réaliser des missions de test de sécurité sur les différentes composantes du SI ","[{'name': 'Python', 'value': 50.0}, {'name': 'Bash', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+89,45,Développeur .NET Azure (+Craft),"Amis développeurs,
+Nous recherchons un nouveau Développeur .Net H/F orienté Craft pour rejoindre notre équipe dès que possible au cœur de notre Agence lyonnaise.
+Le profil que nous recherchons ?
+
+3 ans d'expérience minimum
+Expert en C#.Net Core / EF Core / ASP.Net core
+Adepte des bonnes pratiques de développement (Orga feature Teams, TDD, BDD avec Specflow, Architecture microservices)
+Maturité ava","[{'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': '.NET core', 'value': 50.0}, {'name': 'Agile', 'value': 50.0}, {'name': 'C#', 'value': 50.0}]",3,42.0,60.0,"{""permanent"": true}",3.0,fr,,
+90,45,Dev Backend OU FullStack  F/H,"À la recherche d'une entreprise à taille humaine? De projets à impact et qui ont du sens? TU ES AU BON ENDROIT 👇
+Team de 15 passionnés sur Nantes, on cherche à renforcer notre équipe d'ingénieurs confirmés/séniors pour des projets 100% Builds, Crafts et Agiles.
+
+**NOS PROJETS**
+
+Sélectionnant avec soin ses missions en fonction de ces critères, Kaïbee se positionne comme une ESN avant tout tournée","[{'name': 'Java JEE', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Amazon Web Services', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'Selenium', 'value': 50.0}, {'name': 'Cucumber', 'value': 50.0}]",2,37.0,60.0,"{""permanent"": true}",4.0,fr,,
+91,45,Développeur C#/.NETCORE (H/F),"Venez nous rejoindre à bord de KAÏBEE Bordeaux pour des projets IT, nous sommes à la recherche de notre FUTUR(E)S KAÏBER C#/.NET.
+Fondé à Paris en 2015, nous sommes présents à Bordeaux depuis 2021, KAIBEE est un armateur d’expéditions IT mettant son expertise au service de grands groupes du bassin bordelais.
+Alors si tu penses avoir les épaules solides pour affronter de nouveaux défis dans une sup","[{'name': 'ASP dot-net', 'value': 50.0}, {'name': '.NET core', 'value': 50.0}, {'name': 'C#', 'value': 50.0}]",2,35.0,55.0,"{""permanent"": true}",3.0,fr,,
+92,46,Analyste Développeur ,"Nous recherchons un Analyste Développeur en CDI
+Société à taille humaine de 12 collaborateurs, basée à Ploemeur en Bretagne Sud, nous développons nos solutions logicielles dédiées aux laboratoires d'analyses (LIMS) et assurons leur commercialisation, mise en œuvre et support dans des laboratoires publics ou privés exerçant dans les domaines de l'Environnement, l'Hydrologie, l'Hygiène Alimentaire e","[{'name': 'C#', 'value': 90.0}, {'name': 'Oracle', 'value': 80.0}, {'name': 'Visual Studio', 'value': 80.0}, {'name': '.NET core', 'value': 50.0}, {'name': 'React', 'value': 30.0}]",3,38.0,43.0,"{""permanent"": true}",2.0,fr,,
+93,32,Auditeur - Inspecteur IT H/F,"Placée sous l'autorité directe du Directeur Général de BNP Paribas, l'Inspection Générale réalise ses missions en toute indépendance sur l'ensemble des métiers du groupe en France et à l'étranger, et donne à l'organisation une assurance sur le degré de maîtrise de ses opérations. Les recommandations formulées à la suite des missions d'audit aident le Groupe à renforcer l'efficacité de ses disposit","[{'name': 'Gestion de projet', 'value': 100.0}, {'name': 'Management', 'value': 100.0}]",0,0.0,0.0,"{""permanent"": true}",2.0,,,
+94,47,SAP S/4HANA Data Migration Expert,"Imaginez, transformez et impactez le monde positivement : venez vivre au cœur du changement en tant que **_SAP S/4HANA Data Migration Expert._**
+
+Vos principales missions :
+
+Intégré(e) au sein d’une équipe multidisciplinaire, vous participerez à de grands programmes de transformation ERP S4Hana et de gouvernance des données pour des clients grands comptes
+
+En contact direct des CxO et responsables","[{'name': 'SAP', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+95,47,Ingénieur d'études expérimenté Java Fullstack - F/H,"Venez vivre au cœur du changement et rejoignez-nous en tant qu’Ingénieur d’études java
+
+**Vos Missions**
+
+*   Participer au recueil, à l'analyse et à la définition des besoins ;
+    
+*   Participer au cadrage et aux choix techniques ;
+    
+*   Rédiger et/ou analyser les spécifications techniques ;
+    
+*   Réaliser le développement et/ou paramétrage de la solution ;
+    
+*   Participer aux phases ","[{'name': 'Java', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Chef', 'value': 50.0}, {'name': 'Gestion de projet', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",1,,,"{""permanent"": true}",2.0,,,
+96,12,Tech Lead Mulesoft - Paris,"Vos missions
+ Être Développeur (se) / Tech lead Data Intégration sur Mulesoft c’est :
+  *  Participer au recueil des besoins auprès de nos clients
+  *  Participer à la conception, l’architecture et l’intégration de la solution d’intégration retenue
+  *  Déployer et optimiser au quotidien des pipelines de données dans le Cloud,
+  *  Développer des nouveaux flux/API,
+  *  Apporter / Diffuser une Exp","[{'name': 'Mulesoft', 'value': 50.0}, {'name': 'D3', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}, {'name': 'Groovy', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Kong', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'RabbitMQ', 'value': 50.0}, {'name': 'Talend', 'value': 50.0}, {'name': 'WebMethods', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+97,12,Salesforce Architect - Montpellier (34),"Vos missions :
+
+  *  Analyser la solution globale, sur les plans métiers, fonctionnel et architecture. 
+  *  Définir et mettre en place le schéma directeur SI et être le garant du respect de la roadmap stratégique
+  *  Être force de proposition sur l'orientation du choix de la solution (standard / custom...), ainsi que sur la partie Devops
+  *  Avoir un rôle de conseil prépondérant auprès de nos c","[{'name': 'Salesforce', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Web Components', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+98,12,Lead Développeuse/Développeur Cloud,"Vos missions
+  *  Être garant de la cohérence technique et fonctionnelle de l'application  
+  *  Développer des applications modernes serverless ou à base de container an tirant parti des services managés d’un des providers (AWS, Azure ou GCP)  
+  *  Participer activement à la démarche Finops et Sécurité du projet 
+  *  Accompagner le développement commercial via l’innovation : #LowCode, #IOT, #Ev","[{'name': 'Azure', 'value': 50.0}, {'name': 'IoT', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+99,12,Développeuse / Développeur Frontend Alt  - Nantes,"Vos missions
+
+Vos Missions : 
+Ecouter et analyser le besoin de nos clients ; 
+
+Développer et paramétrer des solutions en Front-End (HTML ; CSS ; Javascript ; Angular ; React ; Node JS) ; 
+
+Réaliser des revues de code en collaboration avec votre équipe ; 
+
+Argumenter les choix de conceptions et d’algorithmes ; 
+
+Tester unitairement les développements réalisés par l’équipe afin de valider les foncti","[{'name': 'Angular', 'value': 50.0}, {'name': 'CSS3', 'value': 50.0}, {'name': 'HTML5', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",1,,,{},,,,
+100,12,Développeuse/Développeur Frontend ALT-Bordeaux,"Vos missions 
+
+Ecouter et analyser le besoin de nos clients ; 
+
+Développer et paramétrer des solutions en Front-End (HTML ; CSS ; Javascript ; Angular ; React ; Node JS) ; 
+
+Réaliser des revues de code en collaboration avec votre équipe ; 
+
+Argumenter les choix de conceptions et d’algorithmes ; 
+
+Tester unitairement les développements réalisés par l’équipe afin de valider les fonctionnalités ; 
+
+R","[{'name': 'Angular', 'value': 50.0}, {'name': 'CSS3', 'value': 50.0}, {'name': 'HTML5', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",1,,,{},,,,
+101,12,Ingénieur / Ingénieure Logiciel Senior - Aix en Provence,"Mission
+
+Dans le cadre du renforcement des équipes, nous recrutons des développeurs logiciel JAVA/JEE sur le site d'Aix en Provence.
+En tant qu’ingénieure/ingénieur logiciel au sein d’une pluridisciplinaire, vos responsabilités principales seront les suivantes :
+  *  Intégrer l’un de nos projets et améliorer la solution déjà existante en développant des nouvelles fonctionnalités.
+  *  Evoluer en e","[{'name': 'Angular', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'Mysql', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+102,12,Senior Tech lead MES -Toulouse,"*  Ecouter et analyser le besoin technique de nos clients
+  *  Coordonner les activités techniques pour tous les aspects du projet, vis-à-vis du client, du management de projet ou des équipes fonctionnelles, en lien avec les architectes projets
+  *  Animer et encadrer une équipe de réalisation (organisation du travail, gestion de la charge…)
+  *  Mettre en place les bonnes pratiques de conception,","[{'name': 'Anglais', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+103,12,Architecte Solution - Aix en provence,"Mission
+
+
+Vous serez intégré au Centre d’Expertise Microsoft / Cloud Azur.
+En tant qu'architecte solutions chez Capgemini, vous serez responsable de l'architecture de bout en bout d'une solution, y compris son assemblage, les choix techniques et sa conformité aux principes architecturaux SI établis avec les clients. 
+Dans ce cadre il faudra : 
+  *  Définir la structure du système, ses interfaces, ","[{'name': 'Angular', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Azure Devops', 'value': 50.0}, {'name': 'Blazor', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'JWT', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Safe', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+104,12,Manager SAP PP (Production Planning),"Description de la mission
+
+  *  Management opérationnel des équipes de consultants en mode Agile ou en delivery distribué, assurer le respect des délais, budgets et qualité des livrables sur le stream 
+  *  Identifier les besoins métiers, en particulier sur les processus liés à la planification et à l'exécution de la production 
+
+  *  Formaliser et synthétiser ces informations pour obtenir le busi","[{'name': 'SAP', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Gestion de projet', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+105,12,Ingénieure/Ingénieur développement Mobile iOS - AIX EN PROVENCE,"Mission
+
+
+Dans le cadre de votre fonction de Tech Lead mobile au sein de notre équipe aixoise, vous prendrez en charge les principales responsabilités ci-dessous :
+
+•    Travailler sur les stacks mobiles hybride : Flutter, Angular/Ionic. Avoir des connaissances iOS, Android et sur les stores.
+•    Comprendre les besoins du client, traduire ceux-ci en spécifications techniques, concevoir, chiffrer,","[{'name': 'IOS', 'value': 50.0}, {'name': 'Android', 'value': 50.0}, {'name': 'Flutter', 'value': 50.0}]",10,,,"{""permanent"": true}",,,,
+106,12,Ingénieure / Ingénieur DevOps - Paris,"Vos missions :
+  *  Contribuer à la conception bas niveau des solutions : concevoir des pipelines DevOps (jobs Jenkins, tâches Gradle/MAVEN …)
+  *  Déployer les environnements techniques et les intégrer dans l.écosystème cible
+  *  Vérifier la compatibilité entre les différents composants logiciels matériels ou systèmes,
+  *  Intégrer et tester la solution dans les différents environnements techni","[{'name': 'D3', 'value': 50.0}, {'name': 'Active Directory', 'value': 50.0}, {'name': 'Ansible', 'value': 50.0}, {'name': 'Elasticsearch', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'VMWare', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+107,12,Ingénieure / Ingénieur Full Stack confirmé - Toulouse,"Vos missions
+
+En tant que Développeur Full Stack, vous serez amené à :
+
+  *  Assurer le développement des applications
+  *  Garantir les users stories qui vous seront confiées
+  *  Participer à toutes les phases d'un projet : de la conception à l'intégration
+  *  Intervenir à la fois sur du Front-end (Javascript, Angular, React JS, Vue JS) et sur du Back-end (Java, Node.JS)
+  *  Accompagner la mon","[{'name': 'Angular', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+108,12,Responsable Technique Java JEE Springboot - Toulouse,"Vos missions
+
+Pour intervenir sur les projets de nos clients, nous recherchons des profils expérimentés pour relever des challenges technologiques, innover et travailler en équipe au cœur de la ville rose.
+Vous serez amené à faire valoir votre expérience et votre savoir-faire technique pour :
+  *  Gérer et animer les équipes de développement autour des technologies Java (planification, suivi et co","[{'name': 'Hibernate', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Java JEE', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}, {'name': 'Struts', 'value': 50.0}]",7,,,"{""permanent"": true}",,,,
+109,12,Architecte Fullstack - Software Craftsmanship spirit - BORDEAUX,"Vos missions : 
+
+Notre équipe d’élite logicielle est avant tout composée de femmes et d’hommes talentueux, inspirants et dotés d’un leadership reconnu en interne mais aussi en externe :  
+  *  Défis complexes : Contribution à la résolution de défis logiciels parmi les plus complexes 
+  *  Opportunités de développement réseau : Développement actif du réseau à travers des participations à des événem","[{'name': 'Réseau', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+110,12,Responsable technique Java / Angular - Toulouse,"Votre rôle
+
+En tant que Responsable technique JAVA/ANGULAR, vous serez amené à :
+  *  Intervenir sur la conception et le développement de solutions innovantes
+  *  Traiter des sujets techniques complexes
+  *  Accompagner la montée en compétence et encadrer techniquement les plus juniors en fonction de votre expérience","[{'name': 'Angular', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Mysql', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+112,12,Ingénieure / Ingénieur Systèmes Linux Confirmé(e) - Grenoble,"Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d’experts dans le monde entier, vous pourrez réécrire votre futur.  Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et partic","[{'name': 'Puppet', 'value': 50.0}, {'name': 'VMWare', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+113,12,Architecte de solution JAVA - Toulouse,"Vos missions
+
+En tant qu’Architecte de solution, vous serez amené à :
+-    Concevoir et architecturer des solutions de bout en bout
+-    Assurer l’encadrement technique des projets 
+-    Garantir la cohérence technique 
+-    Intervenir sur le processus de transformation digitale 
+-    Mener des ateliers avec l’ensemble des intervenants et construire la solution la plus adaptée
+-    Encadrer de jeu","[{'name': 'Java', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Spring Cloud', 'value': 50.0}]",10,,,"{""permanent"": true}",,,,
+114,12,Ingénieure / ingénieur DevOps confirmé - Toulouse,"Vos missions
+
+Dans le cadre d’une mission DevOps pour l’un de nos clients grand compte, vous intègrerez une équipe projet composée de consultants expérimentés dans leurs domaines respectifs.
+
+Ainsi, vous interviendrez sur les activités suivantes :
+· Participer au design et au build de solutions DevOps et notamment sur les aspects : Continuous Integration, Continuous Deployment ;
+· Participer à l’a","[{'name': 'Ansible', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}]",4,,,"{""permanent"": true}",,,,
+115,48,Lead 3D Character Artist,"Specialised in Tactical Role-playing (Tactical RPG), TACTICAL ADVENTURES is a video game development and publishing studio created in Paris in July 2018. You can already roll the dice and create your characters in our first game : Solasta : Crow Of The Magister, published in May 2021 or have a look on our second project's demo on steam : Solasta II ! Our team of experts and enthusiasts is currentl","[{'name': 'RPG', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+116,49,Job offers in the department of 93 - Seine-Saint-Denis (Bobigny),Video Games Jobs in the department of 93 - Seine-Saint-Denis (Bobigny),,0,,,{},,,,
+117,50,Admnistrateur Système DevOps (F/H/X),"Plug In Digital est une société créée en Janvier 2012 spécialisée dans la distribution digitale de jeux vidéo sur les supports Console, PC, Mac, Cloud et Mobile Premium. Avec son offre de distribution de jeux vidéo en téléchargement et via les plateformes de cloud gaming, Plug In Digital vise à proposer un large choix de jeux à destination des plateformes de contenus et de distribution du monde en",,0,,,"{""permanent"": true}",2.0,,,
+118,51,Ingénieur Électronique H/F,"Les missions du poste
+---------------------
+
+  
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 ","[{'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+119,52,Chef de Projet IT H/F,"Les missions du poste
+---------------------
+
+  
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 650 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôles d'activités complémentaires :  
+  
+\- Aéronautique / Spatial / Défense  
+\- Drone / Ro","[{'name': 'Chef', 'value': 50.0}, {'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Gestion de projet', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+120,53,Développeur C++ - Qt H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'C++', 'value': 50.0}, {'name': 'Qt', 'value': 50.0}, {'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Réseau', 'value': 50.0}]",4,,,"{""permanent"": true}",,,,
+121,54,Lead Tech Java - Expert Datadog H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'Datadog', 'value': 50.0}, {'name': 'IoT', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+159,68,Systems Designer – Open Application | Concepteur de systèmes - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in systems design. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian St",,0,,,"{""permanent"": true}",,,,
+122,54,Développeur Java - Springboot H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'Java', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'IoT', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Spring Boot', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'IntelliJ', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Spring', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",2,,,"{""permanent"": true}",2.0,,,
+123,54,Administrateur Base de Données DBA SQL - Nosql H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'IoT', 'value': 50.0}, {'name': 'NoSQL', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Ansible', 'value': 50.0}, {'name': 'DynamoDB', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}]",10,,,"{""permanent"": true}",2.0,,,
+124,54,Responsable d'Application H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}]",1,,,"{""permanent"": true}",2.0,,,
+125,54,Ingénieur Data H/F,"Les missions du poste
+---------------------
+
+  
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 ","[{'name': 'IoT', 'value': 50.0}, {'name': 'Data lake', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Looker', 'value': 50.0}, {'name': 'Power BI', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'UML', 'value': 50.0}]",1,,,"{""permanent"": true}",2.0,,,
+126,54,Testeur Automaticien H/F,"Les missions du poste
+---------------------
+
+Rejoignez une Best Workplace Française et Européenne !  
+  
+LR Technologies Groupe, société de conseil en ingénierie, est une jeune galaxie, créée en juillet 2014 dont l'animal totem est la libellule.  
+  
+LR Technologies Groupe démontre par l'obtention de ces distinctions et sa croissance rapide, l'efficacité d'une stratégie d'entreprise qui, dès le dé","[{'name': 'Vite', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}, {'name': 'Cypress', 'value': 50.0}, {'name': 'Postman', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+127,54,Site Reliability Engineer H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'IoT', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Ansible', 'value': 50.0}, {'name': 'Datadog', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+128,51,Architecte Harnais Electrique H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'Chef', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+129,54,Ingénieur Support Applicatif H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+130,51,Ingénieur Conception Electronique H/F,"Les missions du poste
+---------------------
+
+« Toutes les Sociétés de Conseil se ressemblent »,  
+  
+Toutes ?  
+  
+LR TECHNOLOGIES GROUPE c'est 600 Libelliens qui nous ont élus Great Place To Work en 2016, 2018 et à présent 3e France et Europe 2021. Nous sommes également la 99e société française labellisée B CORP pour notre engagement RSE.  
+  
+Depuis 2014 nous avons créé 11 implantations et 5 pôl","[{'name': 'IoT', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}]",1,,,"{""permanent"": true}",,,,
+131,55,ECC Associate Analyst - m/f/d ( R-19103),"D&B ECC (Enterprise Control Center) Operations provides 24x7 Level 1 support for the organization’s global production applications monitoring, incident handling, escalations and service restorations.  This role is responsible for performing proactive monitoring of application alerts and events, follow standard ITIL Incident and Problem processes, escalations procedures, review application run book","[{'name': 'Apache', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'MCP', 'value': 50.0}, {'name': 'Progress', 'value': 50.0}, {'name': 'Tomcat', 'value': 50.0}, {'name': 'Windows OS', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+132,55,Senior Microsoft Fabric Engineer (R-18875),"**Shape the Future with Dun & Bradstreet**
+
+At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. For over 180 years, businesses have trusted us to turn uncertainty into opportunity. We’re a diverse, global team that values creativity, collaboration,","[{'name': 'Power BI', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+133,55,"Senior Director, Data Advisory Services (R-19008)","**Shape the Future with Dun & Bradstreet**
+
+At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. For over 180 years, businesses have trusted us to turn uncertainty into opportunity. We’re a diverse, global team that values creativity, collaboration,","[{'name': 'Management', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Make', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+134,55,Senior Principal Solutions Architect (R-18972),"**Shape the Future with Dun & Bradstreet**
+
+At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. For over 180 years, businesses have trusted us to turn uncertainty into opportunity. We’re a diverse, global team that values creativity, collaboration,","[{'name': 'Make', 'value': 50.0}]",15,,,"{""permanent"": true}",,,,
+135,56,Senior Software Engineer (PHP),"NFQ is a core technology partner for HomeToGo – a dedicated team of software engineers and data science professionals driving innovation to power a marketplace with the world’s largest selection of vacation rentals. We are expanding HomeToGo’s technology team in Lithuania and are looking for the brightest talents to join this growing company.
+
+  
+
+HomeToGo is the marketplace with the world's large","[{'name': 'PHP', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Symfony', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+136,56,Senior Data Engineer,"We build the tech that moves industries forward. We have our eyes set on AI, energy, logistics, sports and other complex and exciting segments.
+
+  
+
+We believe in an innovative approach to solving deep issues and encourage our people to find their own solutions. We are constantly rethinking processes, business models, architecture, and tech stacks. 
+
+  
+
+We foster a sense of curiosity, experimenta","[{'name': 'Python', 'value': 50.0}, {'name': 'Apache Airflow', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Database', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Pandas', 'value': 50.0}, {'name': 'Pyspark', 'value': 50.0}, {'name': 'Redshift', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}, {'name': 'Snowflake', 'value': 50.0}, {'name': 'Spark', 'value': 50.0}]",5,39.0,62.0,"{""permanent"": true}",,,,
+137,57,Product Manager - Secteur Public - CDI Paris - Theodo GovTech,"**L’histoire du groupe Theodo et son succès**
+
+Le groupe Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux, en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 700 Theodoers, principalement des So","[{'name': 'Ada', 'value': 50.0}, {'name': 'Android', 'value': 50.0}, {'name': 'IOS', 'value': 50.0}]",1,,,"{""permanent"": true}",,,,
+138,57,Lead Software Engineer - CDI Paris - Theodo Healthtech,"**L’histoire de Theodo et son succès**
+
+Le groupe Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux, en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Notre approche unique est fondée sur 3 principes :
+
+\- nous avons développé des expertises reconnues dans les technologies clés de la co","[{'name': 'Ada', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Express', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}]",4,,,"{""permanent"": true}",,,,
+139,57,Delivery Manager Secteur Public - CDI Paris - Theodo GovTech,"**L’histoire du groupe Theodo et son succès**
+
+Le groupe Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux, en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 700 Theodoers, principalement des So","[{'name': 'Management', 'value': 50.0}, {'name': 'Ada', 'value': 50.0}]",10,,,"{""permanent"": true}",,,,
+140,57,Product Manager - Casablanca CDI - Theodo Maroc,"**L’histoire du groupe Theodo et son succès**
+
+Le groupe Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux, en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Notre approche unique est fondée sur 3 principes :
+
+\- nous avons développé des expertises reconnues dans les technologies clés d","[{'name': 'GreenIT', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Réseau', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+141,57,Product Manager - CDI Paris - Theodo Fintech,"**L’histoire du groupe Theodo et son succès**
+
+Le groupe Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux, en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 700 Theodoers, principalement des So","[{'name': 'Ada', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+142,57,Product Designer confirmé - CDI Paris - Theodo Apps,"**L’histoire du groupe Theodo et son succès**
+
+Le groupe Theodo accompagne depuis 2009 les entreprises innovantes dans la conception, le développement et le déploiement de produits digitaux ingénieux, en tirant parti du meilleur de la technologie et de l’approche Lean.
+
+Theodo connait une croissance exceptionnelle depuis 15 ans : nos équipes rassemblent plus de 700 Theodoers, principalement des So","[{'name': 'Ada', 'value': 50.0}, {'name': 'Figma', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+143,58,AI Engineer (GenAI &amp; LLM) – Practice IA MARGO,"Qui sommes-nous ?
+
+  
+
+Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel.C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech sur leurs projets les plus stratégiques en Data Science, Machine Learning et Intelligence Artificielle.
+
+  
+
+Pourquoi rejoindr","[{'name': 'Machine Learning', 'value': 50.0}, {'name': 'Intelligence Artificielle', 'value': 50.0}, {'name': 'LangChain', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",0,50.0,80.0,"{""permanent"": true}",,,,
+144,59,Talent Acquisition Operations Partner (AI &amp; Automation),"**🪐 Discover our galaxy**
+
+  
+
+Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 900,000 talented freelancers with 90,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different:
+
+  
+
+\- A diverse team of 600 Malters across 6 European countries
+
+\- A culture that champions","[{'name': 'Boost', 'value': 50.0}, {'name': 'Safe', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+145,60,Stage 2026 Data Scientist - Marketing and commercial effectiveness(H/F/N),"Ekimetrics est leader en data science et fournisseur de solutions AI. Depuis 2006, nous utilisons la data science au service de l’optimisation de performance marketing, business et de la transition vers une performance plus durable.
+
+Si vous êtes passionné.e de data, ou de technologie en général, et que vous avez envie d’être acteur.rice de votre avenir professionnel, votre place est sûrement chez","[{'name': 'Python', 'value': 50.0}, {'name': 'Construct 3', 'value': 50.0}, {'name': 'Kong', 'value': 50.0}]",0,,,{},,,,
+146,61,Documentation Specialist,"<h4><strong>👋 Who are we?</strong></h4><p><strong>Nordhealth</strong> (OB:NORDH) is the leading provider of cloud-based Practice Information Management Software <strong>(PIMS) </strong>to veterinary and therapy professionals.</p><p>Over the last three years, we have grown our Annual Recurring Revenue (ARR) and team size by almost 10x. Today, more than <strong>30,000 therapy and veterinary profess","[{'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+147,62,Ingénieur systèmes nouveaux radars F/H,"Lieu : Vélizy-Villacoublay, France Construisons ensemble un avenir de confiance Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d’activité : Défense & Sécurité, Aéronautique & Spatial, et Cyber & Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l’environnement et plus inclusif. Le Groupe investit près de 4 ","[{'name': 'Management', 'value': 50.0}, {'name': 'Matlab', 'value': 50.0}, {'name': 'R', 'value': 50.0}, {'name': 'R', 'value': 50.0}]",1,,,"{""permanent"": true}",,,,
+148,63,Responsable du service RF de puissance et haute tension,"Lieu : Bordeaux, France Construisons ensemble un avenir de confiance Thales est un leader mondial des hautes technologies spécialisé dans trois secteurs d’activité : Défense & Sécurité, Aéronautique & Spatial, et Cyber & Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l’environnement et plus inclusif. Le Groupe investit près de 4 milliards d","[{'name': 'Management', 'value': 50.0}, {'name': 'R', 'value': 50.0}, {'name': 'R', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+149,64,[Wattpad] Account Executive,"Wattpad’s vision is to entertain and connect the world through stories. A leading global webnovel platform, Wattpad has democratized storytelling for a new generation of diverse Gen Z writers and their fans. Wattpad is part of WEBTOON Entertainment’s IP & Creator Ecosystem, where approximately 155 million monthly active users discover incredible stories in multiple formats. Come build the future o","[{'name': 'Flow', 'value': 50.0}, {'name': 'Less', 'value': 50.0}]",5,95.0,125.0,"{""permanent"": true}",2.0,,,
+150,65,"Solutions Architect, Robotic Industrial Inspections","ANYbotics is a fast-growing tech company dedicated to shaping the future of mobile robotics across multiple industries. Join our highly talented and motivated team of more than 190 people and work on cutting-edge robot technology.
+
+  
+
+ANYbotics is a tech company dedicated to shaping the future of mobile robotics through Embodied AI across multiple industries. Our autonomous quadruped robots, like","[{'name': 'IoT', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",8,,,"{""permanent"": true}",,,,
+151,66,Ad Operations Specialist F/M,"**Ad Operations Specialist** F/M
+--------------------------------
+
+📍 Warsaw, Poland  
+👉 Work Model: Hybrid  
+📅 From April 2026
+
+* * *
+
+### VALIUZ: WHO ARE WE?
+
+Backed by an alliance of leading French retail companies and unparalleled customer knowledge in France, Valiuz offers solutions and services tailored to both retailers and brands.
+
+These solutions enable business teams to leverage their ","[{'name': 'Management', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Salesforce', 'value': 50.0}]",1,,,"{""permanent"": true}",2.0,,,
+152,67,Senior Product Engineer - iOS/Swift,"**Our mission and customers:** We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be [_**rated 4.8 on Trustpilot**_](https://www.trustpilot.com/review/qonto.com)**_[,](https://www.trustpilot.com/review/qonto.com)_** based on 55,000+ reviews. [**_Our culture_**](https://qonto.com/en","[{'name': 'IOS', 'value': 50.0}, {'name': 'Swift', 'value': 50.0}, {'name': 'Claude Code', 'value': 50.0}, {'name': 'Firebase', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Notion', 'value': 50.0}, {'name': 'SwiftUI', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+153,67,Senior iOS Engineer,"**Our mission and customers:** We are creating the freedom for SMEs to succeed by delivering Europe's leading finance workspace with banking at its core, augmented by financial tools. We are proud to be [_**rated 4.8 on Trustpilot**_](https://www.trustpilot.com/review/qonto.com)**_[,](https://www.trustpilot.com/review/qonto.com)_** based on 55,000+ reviews. [**_Our culture_**](https://qonto.com/en","[{'name': 'IOS', 'value': 50.0}, {'name': 'Swift', 'value': 50.0}, {'name': 'Claude Code', 'value': 50.0}, {'name': 'Firebase', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Notion', 'value': 50.0}, {'name': 'SwiftUI', 'value': 50.0}]",3,,,"{""permanent"": true}",2.0,,,
+154,68,Producer – Open Application | Producteur - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in production. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Studio",,0,,,"{""permanent"": true}",,,,
+155,68,DevOps – Open Application | DevOps - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in DevOps and infrastructure. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities a",,0,,,"{""permanent"": true}",,,,
+156,68,Tools Programmer – Open Application | Programmeur d&#39;outils - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in tools programming. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian","[{'name': 'WPF', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+157,68,Senior Tools Programmer,"With multiple awards to our name, Larian Studios has proven that we’re dedicated to delivering high-quality role-playing games As we move on to new projects, the studio that brought you Baldur’s Gate 3 & Divinity: Original Sin 2 is looking for a Tools Programmer to join the team and help us in crafting the high calibre games our fans have come to expect.
+
+\\n
+
+  
+
+**Responsibilities**
+
+*   Develop","[{'name': 'C#', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'WPF', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+158,68,Level Designer – Open Application | Concepteur de niveaux - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in level design. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Stud",,0,,,"{""permanent"": true}",,,,
+160,68,Animator – Open Application | Animateur - candidature libre,"(Version française ci-dessous)
+
+Thank you for your interest in a career at Larian Studios!
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in animation. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Studios.
+
+As an",,0,,,"{""permanent"": true}",,,,
+161,68,Engine Programmer – Open Application | Programmeur moteur - candidature libre,"(Version française ci-dessous)
+
+Thank you for your interest in a career at Larian Studios!
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in engine programming. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Studio","[{'name': 'C++', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+162,68,Graphics Programmer – Open Application | Programmeur graphique - candidature libre,"(Version française ci-dessous)
+
+Thank you for your interest in a career at Larian Studios!
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in graphics programming. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Stud",,0,,,"{""permanent"": true}",,,,
+163,68,Technical Animator or Rigger – Open Application | Animateur technique ou de squelettage - candidature ouverte,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in technical animation or rigging. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunit",,0,,,"{""permanent"": true}",,,,
+164,68,Lighting Artist – Open Application | Artiste spécialiste de l&#39;éclairage - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in lighting art. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Stud",,0,,,"{""permanent"": true}",,,,
+165,68,Technical Artist – Open Application | Artiste technique - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in technical art. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Stu",,0,,,"{""permanent"": true}",,,,
+166,68,Gameplay Programmer – Open Application | Programmeur gameplay - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in gameplay programming. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Lar","[{'name': 'C++', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+167,68,Technical QA – Open Application | Contrôle qualité technique - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+As a Technical QA specialist in our open application, you may be contacted when a role opens up that aligns with your skills and experience. These roles typically involve identifying technical issues, developing testing strategies, and working closely with our code teams. You may also contribute to ",,0,,,"{""permanent"": true}",,,,
+168,68,Gameplay Scripter – Open Application | Script de gameplay – Open Application,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in gameplay scripting. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Laria",,0,,,"{""permanent"": true}",,,,
+169,68,UI/UX Designer – Open Application | Concepteur d&#39;interface et d&#39;expérience utilisateur - candidature libre,"(Version française ci-dessous)
+
+  
+
+Thank you for your interest in a career at Larian Studios!
+
+  
+
+We’re always looking to connect with talented and passionate developers — especially those with expertise in UI/UX design. While we may not have an immediate opening at this time, by applying to this listing, you're expressing your interest in being considered for future opportunities at Larian Stud",,0,,,"{""permanent"": true}",,,,
+170,68,Engine Programmer,"With multiple awards to our name, Larian Studios has proven that we’re dedicated to delivering high-quality role-playing games As we move on to new projects, the studio that brought you Baldur’s Gate 3 & Divinity: Original Sin 2 is looking for an Engine Programmer to join the team and help us in crafting the high calibre games our fans have come to expect.
+
+\\n
+
+  
+
+**Responsibilities**
+
+*   Work ","[{'name': 'C++', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+171,69,[REPLACE: role title],"\[REPLACE: full HTML-allowed job description, 200+ words\]",,5,,,"{""permanent"": true}",2.0,,,
+172,70,Stagiaire Product Manager &amp; Marketing,"**🌰** **Skello en bref**
+
+  
+
+Chez Skello, on développe la solution RH de référence pour planifier et manager les équipes de terrain.
+
+  
+
+En Europe, les équipes de terrain représentent 50 % des travailleurs, mais seulement 20 % des solutions digitales leur sont réellement adressées.
+
+  
+
+Skello est né pour combler ce manque : une plateforme collaborative et intuitive qui simplifie le quotidien d","[{'name': 'Anglais', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}]",0,,,{},,,,
+173,71,Solution Operations Manager - Paris,"**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Management', 'value': 50.0}, {'name': 'Make', 'value': 50.0}]",3,,,"{""permanent"": true}",,,,
+174,71,"Research Platform Engineer, DevOps","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+175,71,"Open-Source Software, Machine Learning Engineer","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Machine Learning', 'value': 50.0}, {'name': 'Pytorch', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'TensorFlow', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+176,71,"Applied AI, Forward Deployed Machine Learning Engineer- Singapore","**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Machine Learning', 'value': 50.0}, {'name': 'Deep learning', 'value': 50.0}, {'name': 'LangChain', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'NLP ', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Pytorch', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+177,71,"Research Engineer, Data Infrastructure","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise as well as per","[{'name': 'Data lake', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",4,,,"{""permanent"": true}",2.0,,,
+178,71,Applied Scientist / Research Engineer - EMEA,"**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Machine Learning', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Pytorch', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+179,71,"Product Manager, Cloud Partnerships","**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Management', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Motion', 'value': 50.0}]",7,,,"{""permanent"": true}",2.0,,,
+180,71,Product Designer - Documentation,"**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. 
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Make', 'value': 50.0}, {'name': 'Figma', 'value': 50.0}, {'name': 'Illustrator', 'value': 50.0}, {'name': 'Scratch', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+181,71,Product Designer - Mistral Cloud,"**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. 
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Kubernetes', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Motion', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Scratch', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}]",7,,,"{""permanent"": true}",2.0,,,
+182,71,Social Media Specialist - Writing &amp; Video (US),"**About Mistral**
+-----------------
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterpri","[{'name': 'Make', 'value': 50.0}]",3,,,"{""permanent"": true}",2.0,,,
+183,71,AI Developer Advocate - Singapore,"**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise as well as per","[{'name': 'Make', 'value': 50.0}]",6,,,"{""permanent"": true}",2.0,,,
+184,71,"Technical Program Manager, Engineering","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Management', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Progress', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+185,71,"Software Engineer, QA","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Machine Learning', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Playwright', 'value': 50.0}, {'name': 'Postman', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+186,71,"Software Engineer, Knowledge and Search","**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Python', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Rust', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",7,,,"{""permanent"": true}",2.0,,,
+187,71,Site Reliability Engineer,"**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Kubernetes', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Bash', 'value': 50.0}, {'name': 'Cloud Computing', 'value': 50.0}, {'name': 'Datadog', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Safe', 'value': 50.0}]",7,,,"{""permanent"": true}",2.0,,,
+188,71,Mistral Cloud - Site Reliability Engineer,"About Mistral 
+--------------
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. 
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise nee","[{'name': 'Make', 'value': 50.0}, {'name': 'Bash', 'value': 50.0}, {'name': 'Datadog', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Safe', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+189,71,"Cybersecurity Engineer, SIEM","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'SIEM', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+190,71,"Software Engineer, Enterprise Agents","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Flow', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Salesforce', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+191,71,"Software Engineer, Backend (New-York)","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Make', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Kotlin', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+192,71,"Mistral Cloud - Software Engineer, Fullstack/Frontend","### About Mistral 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. 
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Make', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Motion', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'ReactQuery', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+193,71,"Software Engineer, Backend (London)","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Make', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+194,71,"Engineering Team Lead, DevEx","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Azure', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+195,71,"Mistral Cloud - Software Engineer, Backend (Golang)","About Mistral 
+--------------
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life. 
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise nee","[{'name': 'Make', 'value': 50.0}, {'name': 'Azure', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+196,71,AI Developer Advocate,"**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise as well as per","[{'name': 'Make', 'value': 50.0}]",6,,,"{""permanent"": true}",,,,
+197,71,"Software Engineer, Frontend","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'React', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'Figma', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Motion', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'ReactQuery', 'value': 50.0}, {'name': 'VueJS', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+198,71,"Software Engineer, DevEx","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Azure', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'OWASP', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+199,71,"Software Engineer, Deployment Infrastructure","**About Mistral**
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+200,71,"Software Engineer, Backend (Paris)","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Make', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+201,71,Engineering Manager,"**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+202,71,Data Scientist,"**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether ","[{'name': 'Machine Learning', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'D3', 'value': 50.0}, {'name': 'DBT', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}]",2,,,"{""permanent"": true}",2.0,,,
+203,71,"CyberSecurity Engineer, SOC Analyst","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Management', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'SIEM', 'value': 50.0}, {'name': 'Splunk', 'value': 50.0}]",3,,,"{""permanent"": true}",2.0,,,
+204,71,"CyberSecurity Engineer, DevSecOps","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Management', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+205,71,"AI Engineer, Product","**About Mistral** 
+
+At Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.
+
+We democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether","[{'name': 'Make', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+206,72,Drone Engineer – Drone Scanning &amp; Digital Mapping (BIM/GIS),"We are looking for a **Drone Engineer** to support digital surveying, scanning, and data integration on complex construction projects across Flanders. In this role, you will work at the intersection of **construction, geospatial data, and digital engineering**, helping project teams translate real-world conditions into accurate digital models.
+
+  
+
+You will use drone technology, 3D scanning, and d","[{'name': 'Make', 'value': 50.0}, {'name': 'Progress', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+207,73,Senior Site Reliability Engineer (SRE),"At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil.
+
+Your role as a Senior Site Reliability Engineer (SRE) centers around creatively solving proble","[{'name': 'Android', 'value': 50.0}, {'name': 'Boost', 'value': 50.0}, {'name': 'Datadog', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'IOS', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Kotlin', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Less', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Redis', 'value': 50.0}, {'name': 'Snowflake', 'value': 50.0}, {'name': 'Swift', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",5,60.0,100.0,"{""permanent"": true}",,,,
+208,74,Product Designer,"We’re a team of 500+ professionals who develop cutting-edge web data gathering solutions for thousands of the world’s best known businesses, including Fortune 500 companies. 
+
+  
+
+**What’s in store for you:**
+
+You’ll be solving challenges for top-tier clients and collaborating with industry professionals. We’ll fuel your professional growth with vast internal and external learning resources and an","[{'name': 'Figma', 'value': 50.0}, {'name': 'InDesign', 'value': 50.0}, {'name': 'Make', 'value': 50.0}]",3,37.0,45.0,"{""permanent"": true}",,,,
+209,74,PHP/Go Developer (Mid-Senior),"We’re a team of 500+ professionals who develop cutting-edge proxy and web data scraping solutions for thousands of the world’s best known businesses, including Fortune 500 companies. 
+
+  
+
+**What’s in store for you:**
+
+You’ll be solving complex challenges and maintaining our own infrastructure with 60PB+ monthly data traffic. Here are its scale and maturity in numbers:
+
+  
+
+\- 6PB+ Ceph storage
+
+\","[{'name': 'Kafka', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'PHP', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'NoSQL', 'value': 50.0}, {'name': 'Redis', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Mysql', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'Symfony', 'value': 50.0}]",0,38.0,77.0,"{""permanent"": true}",,,,
+210,74,Mid-Senior PHP Developer,"We’re a team of 500+ professionals who develop cutting-edge proxy and web data scraping solutions for thousands of the world’s best known businesses, including Fortune 500 companies. 
+
+  
+
+**What’s in store for you:**
+
+You’ll be solving complex challenges and maintaining our own infrastructure with 60PB+ monthly data traffic. Here are its scale and maturity in numbers:
+
+  
+
+\- 6PB+ Ceph storage
+
+\","[{'name': 'PHP', 'value': 50.0}, {'name': 'Symfony', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Kafka', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Mysql', 'value': 50.0}, {'name': 'Redis', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",0,38.0,76.0,"{""permanent"": true}",,,,
+211,75,Engineering Manager - Front-end background,"**Join Pigment: The AI Platform Redefining Business Planning**
+
+Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering every team—from Finance to HR—to build, adapt, and align strategic plans in real time.
+
+Founded in 2019, Pigment is one of the fastest-g","[{'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'CSS3', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Snowflake', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+212,75,Senior Backend Software Engineer,"**Join Pigment: The AI Platform Redefining Business Planning**
+
+Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering every team—from Finance to HR—to build, adapt, and align strategic plans in real time.
+
+Founded in 2019, Pigment is one of the fastest-g","[{'name': 'Make', 'value': 50.0}, {'name': '.NET core', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'CircleCi', 'value': 50.0}, {'name': 'Database', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'RabbitMQ', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Ruby', 'value': 50.0}, {'name': 'Rust', 'value': 50.0}, {'name': 'Snowflake', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+213,75,Senior Frontend Software Engineer,"**Join Pigment: The AI Platform Redefining Business Planning**
+
+Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering every team—from Finance to HR—to build, adapt, and align strategic plans in real time.
+
+Founded in 2019, Pigment is one of the fastest-g","[{'name': 'Management', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'React', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}, {'name': 'Cypress', 'value': 50.0}, {'name': 'Snowflake', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Vitest', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+214,75,Engineering Manager,"**Join Pigment: The AI Platform Redefining Business Planning**
+
+Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering every team—from Finance to HR—to build, adapt, and align strategic plans in real time.
+
+Founded in 2019, Pigment is one of the fastest-g","[{'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Ruby', 'value': 50.0}, {'name': 'Rust', 'value': 50.0}, {'name': 'Snowflake', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+215,76,Développeur Full-Stack Senior Angular/NestJS (H/F),"<p>La mission d’<strong>Once For All</strong> est de devenir le n° 1 en Europe du sourcing responsable dans le secteur de la construction.</p><p>Dans un contexte réglementaire en constante évolution, nous croyons fermement que l’intelligence collective, l’innovation et la technologie sont les clés pour construire des relations de confiance et un avenir durable.</p><p></p><p>Notre plateforme SaaS e","[{'name': 'Angular', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Figma', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'NestJS', 'value': 50.0}, {'name': 'Notion', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Slack', 'value': 50.0}, {'name': 'Trello', 'value': 50.0}]",7,85.0,85.0,"{""permanent"": true}",2.0,,,
+216,77,Ingénieur Logiciel embarqué (H/F),"**Qui sommes-nous ? :**
+
+Créée en 2016, KICKMAKER est une communauté de talents aux profils pluridisciplinaires et complémentaires, animés par la même passion pour le développement de produits high-tech et les défis d'industrialisation.
+
+  
+
+Présents en France, en Chine et aux Etats-Unis, notre communauté compte plus de 200 kickers passionnés. Nous sommes fiers d’accompagner nos partenaires grands","[{'name': 'C', 'value': 50.0}, {'name': 'Yocto', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Qt', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+217,77,Freelance - Ingénieur Logiciel embarqué (H/F),"**Qui sommes-nous ? :**
+
+Créée en 2016, KICKMAKER est une communauté de talents aux profils pluridisciplinaires et complémentaires, animés par la même passion pour le développement de produits high-tech et les défis d'industrialisation.
+
+  
+
+Présents en France, en Chine et aux Etats-Unis, notre communauté compte plus de 200 kickers passionnés. Nous sommes fiers d’accompagner nos partenaires grands","[{'name': 'C', 'value': 50.0}, {'name': 'Yocto', 'value': 50.0}, {'name': 'C#', 'value': 50.0}, {'name': 'C++', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Qt', 'value': 50.0}]",5,,,"{""permanent"": true}",,,,
+218,78,Solutions Engineer intern,"📍 Paris | Internship | Fluent 🇫🇷 & 🇬🇧
+
+  
+
+E-commerce is booming — but independent brands still struggle to match the seamless logistics of giants like Amazon. At **Bigblue**, we're on a mission to change that.
+
+We help brands by democratizing best-in-class operations: scaling faster while delivering a five-star customer experience.
+
+Since 2018, we've built a tech-driven logistics platform po","[{'name': 'Make', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Postman', 'value': 50.0}, {'name': 'Shopify', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'WooCommerce', 'value': 50.0}]",0,,,{},,,,
+219,79,Mail Deliverability Manager,"**OUR STORY:**
+
+🇪🇺 Join Scaleway and shape the sovereign cloud of tomorrow !
+
+Since 1999, we have been designing secure, sustainable infrastructures aimed at supporting the most ambitious companies.
+
+Historically known for our dedicated servers (Dedibox), we made a strategic shift to cloud computing in 2015. Staying true to our principles of simplicity, flexibility, and technical excellence, we ","[{'name': 'Chef', 'value': 50.0}, {'name': 'Cloud Computing', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Serverless', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+220,79,Software Engineer - Serverless Compute,"**OUR STORY:**
+
+🇪🇺 Join Scaleway and shape the sovereign cloud of tomorrow !
+
+Since 1999, we have been designing secure, sustainable infrastructures aimed at supporting the most ambitious companies.
+
+Historically known for our dedicated servers (Dedibox), we made a strategic shift to cloud computing in 2015. Staying true to our principles of simplicity, flexibility, and technical excellence, we ","[{'name': 'Serverless', 'value': 50.0}, {'name': 'Go', 'value': 50.0}, {'name': 'Gitlab', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Packer', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Chef', 'value': 50.0}, {'name': 'Cloud Computing', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Rust', 'value': 50.0}]",5,,,"{""permanent"": true}",2.0,,,
+221,80,UX/UI Designer interactif ,"En accord avec nos designers et developpeurs vous serez chargé(e) de les épauler dans la conception et réalisation d'interface et microinteractions pour nos expériences / jeux digitaux. Mission Concevoir et réaliser des interfaces interactives innovantes, immersives et animées, destinées à nos expériences digitales et jeux. Imaginer et prototyper des micro-interactions, animations et transitions f","[{'name': 'WebGL', 'value': 50.0}, {'name': 'GSAP', 'value': 50.0}, {'name': 'ThreeJS', 'value': 50.0}, {'name': 'AfterEffects', 'value': 50.0}, {'name': 'Blender', 'value': 50.0}, {'name': 'Figma', 'value': 50.0}, {'name': 'Illustrator', 'value': 50.0}, {'name': 'Motion', 'value': 50.0}]",0,,,{},2.0,,,
+222,80,Développeur Backend NodeJS,"Compétences requises : Back-end : NodeJS, MongoDB, NestJS Multijoueur : Gestion de la progression, systèmes de points et de leaderboard, système de triche Infrastructure : Kubernetes, Google Cloud Missions : Mettre en place des systèmes de gestion des utilisateurs et d’authentification sécurisée. Développer, maintenir et améliorer les systèmes de récupération des données de jeu Implémenter et gére","[{'name': 'MongoDB', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'Google Cloud', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'NestJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",0,,,{},,,,
+223,81,Senior Staff Engineer – Architecture & Ownership F/H,"Nous recherchons un ou une Senior / Staff Engineer capable de prendre l’ownership de systèmes techniques critiques et de structurer des solutions robustes dans la durée. Ce rôle s’adresse à un profil expérimenté qui aime travailler sur des problèmes complexes en production, faire des choix d’architecture, et garantir la fiabilité de systèmes utilisés au quotidien. Ce n’est pas un rôle orienté “fea","[{'name': 'Django', 'value': 50.0}, {'name': 'Next JS', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",0,80.0,80.0,"{""permanent"": true}",,,,
+224,82,Technicien Automatisme H/F,"Accompagner les équipes techniques pour les diagnostiques de pannes. Développer et optimiser les systèmes d’automatisme du site, Mettre en place une maintenance préventive et corrective efficace, Diagnostiquer les pannes et proposer des solutions durables, Former et accompagner les équipes techniques, Contribuer à l’amélioration continue (performance, sécurité, énergie). Intéressé(e) ? Envoyez-nou",,0,25.0,25.0,"{""permanent"": true}",,,,
+225,32,Alternance - Analyste quantitatif -H/F,"<!\[CDATA\[Alternance- Analyste quantitatif -H/F AU QUOTIDIEN ÇA DONNE QUOI ?BNP Paribas Wealth Management est une banque privée de premier plan à l'échelle mondiale et la première banque privée de la zone euro avec 421 milliards d’euros d'actifs gérés. Présente dans 3 régions (Europe, Asie et États-Unis), elle emploie plus de 6 800 professionnels qui accompagnent les particuliers High et Ultra Hi","[{'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Réseau', 'value': 50.0}]",0,22.0,28.0,{},2.0,,,
+226,83,Senior Software Engineer (Agentic AI) - Python,"Your Impact We are looking for a Senior Software Engineer to join the AI Health Companion stream within the Patient domain. Your mission will be to transform the Doctolib app into a full health companion powered by AI, helping patients manage their health with accuracy, empathy, and safety. You will work in a feature team developing an AI-powered chat built to answer patients' questions about thei","[{'name': 'Python', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Kotlin', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Rails', 'value': 50.0}, {'name': 'React Native', 'value': 50.0}, {'name': 'Swift', 'value': 50.0}, {'name': 'Typescript', 'value': 50.0}]",4,,,"{""permanent"": true}",2.0,,,
+227,84,Technicien de maintenance informatique en Datacentre H/F/N,"Technicien de maintenance informatique en datacentre H/F/NAu sein de votre équipe #OneTeam Vous intégrez une équipe de 18 techniciens de maintenance informatique en datacentre Vous évoluez aux côtés de 2 techniciens expérimentés et d'un leader technique. Votre mission consistera à superviser et à assurer la maintenance des équipements informatiques de nos quatre datacentres, jouant ainsi un rôle c","[{'name': 'Management', 'value': 50.0}, {'name': 'Confluence', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Réseau', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+228,84,SRE/Devops with Python,"As a Public Cloud SRE focused on OpenStack internal tools, you will be the cornerstone in ensuring the reliability, performance, and scalability of our cloud infrastructure. You will be responsible for maintaining high service availability, implementing monitoring and driving continuous improvements in our production environment.Main Missions of Unit that you would be part of:• Public Cloud offeri","[{'name': 'Openstack', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Ansible', 'value': 50.0}, {'name': 'Bash', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Puppet', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+229,32,Ingénieur Software Mainframe Cobol Gestion douteux Recouvrement - Senior - H/F,"<!\[CDATA\[Votre rôle au quotidien Au sein de la Banque Commerciale en France (BCEF), le pôle Financement Risque Conformité Règlementaire BCEF-IT joue un rôle clé dans la transformation digitale et la qualité de service offerte à nos utilisateurs. Missions, équipe et environnement de travailVous intégrerez la squad Défaut & Recouvrement, vous interviendrez principalement sur les applications de re","[{'name': 'Cobol', 'value': 50.0}, {'name': 'DB2', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Datastage', 'value': 50.0}, {'name': 'Management', 'value': 50.0}]",10,,,"{""permanent"": true}",,,,
+230,32,"Tech Lead Java, Cloud et EBX – H/F","<!\[CDATA\[AU QUOTIDIEN CA DONNE QUOI ?BNP Paribas Leasing Solutions modernise son SI et a adopté l’Agile@Scale pour offrir des solutions performantes et orientées valeur. Vous rejoindrez le centre d’expertise Design & Développement.Au sein de la Tribe Granting, vous contribuerez à un parcours de décision de crédit fluide et automatisé. Intégré à la Squad Risk Data (multidisciplinaire), vous trava","[{'name': 'Java', 'value': 50.0}, {'name': 'Anglais', 'value': 50.0}, {'name': 'Confluence', 'value': 50.0}, {'name': 'Docker', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Jenkins', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'Oracle', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}, {'name': 'SonarQube', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Tibco EBX', 'value': 50.0}]",6,67.0,72.0,"{""permanent"": true}",2.0,,,
+231,32,Alternance - Data Engineer - H/F,"<!\[CDATA\[AU QUOTIDIEN ÇA DONNE QUOI ? Vous intégrerez l’équipe reporting Risque de Crédit de RISK BCEF, au sein du domaine Corporate ou Synthèse de la Banque Commerciale en France (BCEF), première entité bancaire du Groupe BNP Paribas. Vous évoluerez dans un environnement fortement orienté data, outils et industrialisation des processus.Votre mission consistera à accompagner l’équipe dans l’indu","[{'name': 'SAS ', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}]",0,18.0,28.0,{},2.0,,,
+232,82,Data Scientist H/F,"Intégré(e) au pôle Analytics Lab de la Direction Data ITM Alimentaire International, votre mission est de transformer les données en leviers de performance pour les enseignes Intermarché & Netto. Vous concevrez des solutions analytiques et IA permettant de répondre aux enjeux actuels et à venir de la grande distribution alimentaire. Concrètement quelles seront vos missions ?Résoudre des défis méti",,0,,,"{""permanent"": true}",,,,
+233,85,"Hub Leader – Marketplaces (TikTok, Etsy &amp; Emerging Platforms) – Hybrid in Riga","<h5><span><strong id=""docs-internal-guid-a76c74cb-7fff-40e0-1c93-906a83d982a7"">Purpose &amp; Impact</strong></span></h5><p>You will own and scale FYUL’s Marketplaces Hub (TikTok Shop, Etsy, and future platforms), carrying full commercial responsibility for GMV, acquisition, and expansion.</p><p>You are an execution-driven leader, not a coordinator. You define strategy and mobilize cross-functional","[{'name': 'Make', 'value': 50.0}]",8,,,"{""permanent"": true}",2.0,,,
+234,85,Principal Engineering Manager,<p><strong>About the role:&nbsp;</strong></p><p></p><p><span>We’re looking for a <strong>Principal Engineering Manager</strong> to lead a critical engineering area and raise the bar for how we build and deliver products. This is a senior leadership role for someone who combines strong engineering judgment with a deep sense of ownership. </span></p><p><span>You will work closely with Product and De,"[{'name': 'Typescript', 'value': 50.0}, {'name': 'Angular', 'value': 50.0}, {'name': 'Kubernetes', 'value': 50.0}, {'name': 'MongoDB', 'value': 50.0}, {'name': 'NodeJS', 'value': 50.0}, {'name': 'PHP', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Redis', 'value': 50.0}, {'name': 'Symfony', 'value': 50.0}, {'name': 'Database', 'value': 50.0}, {'name': 'Git', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'Grafana', 'value': 50.0}, {'name': 'Helm', 'value': 50.0}, {'name': 'Jira', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'Miro', 'value': 50.0}, {'name': 'PhpStorm', 'value': 50.0}, {'name': 'Postman', 'value': 50.0}, {'name': 'Progress', 'value': 50.0}, {'name': 'Prometheus', 'value': 50.0}, {'name': 'Slack', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+235,85,"Hub Leader – Shopify / Storefronts (Riga, Hybrid)","<h5><span>Purpose &amp; Impact</span></h5><p><strong>Own and scale FYUL’s Shopify and storefront ecosystem.</strong> You carry full P&amp;L and commercial responsibility for GMV growth, merchant acquisition, activation, retention, and channel expansion. You are an execution-driven leader who defines strategy, mobilizes cross-functional teams, and delivers measurable growth.</p><p><strong>Act as th","[{'name': 'Shopify', 'value': 50.0}, {'name': 'Make', 'value': 50.0}]",8,,,"{""permanent"": true}",2.0,,,
+236,86,Software Engineer,"We are looking for a talented and motivated individual to join our team as a Software Engineer. In this role, you will be responsible for designing, developing, and maintaining software applications. You will work closely with cross-functional teams to deliver high-quality software solutions. Responsibilities:- Design, develop, and implement software solutions.- Write clean, maintainable, and effi","[{'name': 'C++', 'value': 50.0}, {'name': 'Java', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'SCRUM', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
+237,87,"No Code / AI Automation Engineer (n8n, make, zapier)","🔥 Why Stockly needs you As a Products Data profile, you’ll play a pivotal role in Stockly’s growth by building no-code products, automations, and data-driven workflows that directly increase productivity and revenue. 🎯 Your mission As a Growth Hacking / Products Data Manager, your mission is to design, build, and scale no-code systems and automations that power Stockly’s growth. This is a high-i","[{'name': 'Make', 'value': 50.0}, {'name': 'Zapier', 'value': 50.0}]",0,45.0,45.0,"{""permanent"": true}",,,,
+238,88,"Customer Program Manager, Enterprise","Botify’s leading agentic AI search technology and seasoned experts ensure every brand has the power to be found, both in traditional and AI search. With one powerful platform, brands achieve visibility, relevance, and greater control across Google, Bing, ChatGPT, Perplexity, and more.Botify’s technology powers agentic workflows, AI-driven recommendations, and automated cross-platform indexation an","[{'name': 'Management', 'value': 50.0}, {'name': 'SEO', 'value': 50.0}, {'name': 'ChatGPT', 'value': 50.0}]",4,115.0,133.0,"{""permanent"": true}",2.0,,,
+239,89,Sales Operations B2B - RevOps - VIE - Barcelone (H/F),"Since 2015, papernest has been transforming the way people manage their contracts, making subscription, management, and switching simple through one smart, intuitive platform.We have supported more than 2 million customers across France, Spain, and Italy. Along the way, we have continued to invest in new verticals, establishing papernest as a high-performing, innovative, and competitive scale-up i","[{'name': 'Management', 'value': 50.0}, {'name': 'Make', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Javascript', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Salesforce', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+240,89,Workforce Management Planner - Permanent - Barcelona,"Since 2015, papernest has been transforming the way people manage their contracts, making subscription, management, and switching simple through one smart, intuitive platform.We have supported more than 2 million customers across France, Spain, and Italy. Along the way, we have continued to invest in new verticals, establishing papernest as a high-performing, innovative, and competitive scale-up i","[{'name': 'Management', 'value': 50.0}, {'name': 'Progress', 'value': 50.0}]",2,,,"{""permanent"": true}",2.0,,,
+241,89,DevOps AWS - Permanent - Full Remote,"Since 2015, papernest has been transforming the way people manage their contracts, making subscription, management, and switching simple through one smart, intuitive platform.We have supported more than 2 million customers across France, Spain, and Italy. Along the way, we have continued to invest in new verticals, establishing papernest as a high-performing, innovative, and competitive scale-up i","[{'name': 'Management', 'value': 50.0}, {'name': 'Github', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}, {'name': 'Python', 'value': 50.0}, {'name': 'Terraform', 'value': 50.0}, {'name': 'Bash', 'value': 50.0}, {'name': 'Sentry', 'value': 50.0}, {'name': 'SSH', 'value': 50.0}]",2,,,"{""permanent"": true}",,,,
+242,73,Senior Mobile Engineer - Paris,"At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil. Your role as a Senior Mobile Engineer centers around creatively solving problems, ensuring a ba","[{'name': 'Boost', 'value': 50.0}, {'name': 'Flow', 'value': 50.0}, {'name': 'Less', 'value': 50.0}]",0,,,"{""permanent"": true}",2.0,,,
+243,90,Fullstack Engineer - NodeJS,"À propos de la squad ✨Chez Ornikar, nos produits d’assurance continuent d’évoluer pour offrir à nos clients des parcours toujours plus fluides, fiables et performants. Dans ce contexte, nous recrutons aujourd’hui un·e Fullstack Engineer au sein de la squad Contract Management.Cette squad joue un rôle clé dans le cycle de vie de nos contrats d’assurance. Elle est responsable de la maintenance et de","[{'name': 'NodeJS', 'value': 50.0}, {'name': 'API REST', 'value': 50.0}, {'name': 'SQL', 'value': 50.0}, {'name': 'Management', 'value': 50.0}, {'name': 'NestJS', 'value': 50.0}, {'name': 'React', 'value': 50.0}]",4,,,"{""permanent"": true}",2.0,,,
+244,91,Senior developer Full-Stack Ruby on Rails,"Nous recrutons un développeur Senior Fullstack pour renforcer notre capacité de delivery et accélérer sur nos principaux chantiers produit. Organisation et contexte L'équipe produit est organisée en plusieurs squads pluridisciplinaires (PM, designer, devs), chacune responsable d'un scope fonctionnel de bout en bout. Les principaux périmètres couverts : Search Experience : partie publique de la mar","[{'name': 'Rails', 'value': 50.0}, {'name': 'Ruby', 'value': 50.0}, {'name': 'Vite', 'value': 50.0}, {'name': 'Claude Code', 'value': 50.0}, {'name': 'Heroku', 'value': 50.0}, {'name': 'PostgreSQL', 'value': 50.0}]",0,65.0,65.0,"{""permanent"": true}",2.0,,,
+245,73,Senior Mobile Engineer - Montpellier,"At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil. Your role as a Senior Mobile Engineer centers around creatively solving problems, ensuring a ba","[{'name': 'Boost', 'value': 50.0}, {'name': 'Flow', 'value': 50.0}, {'name': 'Less', 'value': 50.0}]",0,,,"{""permanent"": true}",,,,
