@@ -100,7 +100,7 @@ services:
 
   minio:
     container_name: minio
-    image: minio/minio
+    image: quay.io/minio/minio
     command: server /data --console-address ":9001"
     ports:
       - "${PORT_MINIO}:9000"
@@ -112,7 +112,7 @@ services:
       MINIO_ROOT_PASSWORD: ${MINIO_PASSWORD}
 
   minio-init:
-    image: minio/mc
+    image: quay.io/minio/mc
     depends_on:
       - minio
     entrypoint: >
